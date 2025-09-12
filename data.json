@@ -6,11 +6,10 @@
     "ratingPositive": "Amazing!",
     "location": {
       "type": "Point",
-      "coordinates": [
-        174.7690,
-        -41.2901
-      ]
-    }
+      "coordinates": [174.7690, -41.2901]
+    },
+    "image": "https://cataas.com/cat",
+    "details": "https://www.google.com"
   },
   {
     "title": "Location 2",
@@ -19,11 +18,10 @@
     "ratingPositive": "Stunning!",
     "location": {
       "type": "Point",
-      "coordinates": [
-        170.5020,
-        -45.8742
-      ]
-    }
+      "coordinates": [170.5020, -45.8742]
+    },
+    "image": "https://cataas.com/cat",
+    "details": "https://www.google.com"
   },
   {
     "title": "Location 3",
@@ -32,11 +30,10 @@
     "ratingPositive": "Peaceful!",
     "location": {
       "type": "Point",
-      "coordinates": [
-        172.6317,
-        -43.5321
-      ]
-    }
+      "coordinates": [172.6317, -43.5321]
+    },
+    "image": "https://cataas.com/cat",
+    "details": "https://www.google.com"
   },
   {
     "title": "Location 4",
@@ -45,11 +42,10 @@
     "ratingPositive": "Perfect!",
     "location": {
       "type": "Point",
-      "coordinates": [
-        176.2765,
-        -38.6857
-      ]
-    }
+      "coordinates": [176.2765, -38.6857]
+    },
+    "image": "https://cataas.com/cat",
+    "details": "https://www.google.com"
   },
   {
     "title": "Location 5",
@@ -58,11 +54,10 @@
     "ratingPositive": "Fascinating!",
     "location": {
       "type": "Point",
-      "coordinates": [
-        173.7762,
-        -41.2995
-      ]
-    }
+      "coordinates": [173.7762, -41.2995]
+    },
+    "image": "https://cataas.com/cat",
+    "details": "https://www.google.com"
   },
   {
     "title": "Location 6",
@@ -71,11 +66,10 @@
     "ratingPositive": "Awesome trails!",
     "location": {
       "type": "Point",
-      "coordinates": [
-        167.9672,
-        -45.0312
-      ]
-    }
+      "coordinates": [167.9672, -45.0312]
+    },
+    "image": "https://cataas.com/cat",
+    "details": "https://www.google.com"
   },
   {
     "title": "Location 7",
@@ -84,11 +78,10 @@
     "ratingPositive": "Beautiful!",
     "location": {
       "type": "Point",
-      "coordinates": [
-        175.2830,
-        -40.9006
-      ]
-    }
+      "coordinates": [175.2830, -40.9006]
+    },
+    "image": "https://cataas.com/cat",
+    "details": "https://www.google.com"
   },
   {
     "title": "Location 8",
@@ -97,11 +90,10 @@
     "ratingPositive": "Delicious!",
     "location": {
       "type": "Point",
-      "coordinates": [
-        174.7645,
-        -36.8485
-      ]
-    }
+      "coordinates": [174.7645, -36.8485]
+    },
+    "image": "https://cataas.com/cat",
+    "details": "https://www.google.com"
   },
   {
     "title": "Location 9",
@@ -110,11 +102,10 @@
     "ratingPositive": "Breathtaking!",
     "location": {
       "type": "Point",
-      "coordinates": [
-        169.9991,
-        -46.4095
-      ]
-    }
+      "coordinates": [169.9991, -46.4095]
+    },
+    "image": "https://cataas.com/cat",
+    "details": "https://www.google.com"
   },
   {
     "title": "Location 10",
@@ -123,10 +114,9 @@
     "ratingPositive": "Exciting!",
     "location": {
       "type": "Point",
-      "coordinates": [
-        172.4591,
-        -43.5973
-      ]
-    }
+      "coordinates": [172.4591, -43.5973]
+    },
+    "image": "https://cataas.com/cat",
+    "details": "https://www.google.com"
   }
 ]
