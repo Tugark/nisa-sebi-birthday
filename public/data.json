@@ -2,131 +2,211 @@
   {
     "title": "Location 1",
     "description": "A beautiful place to visit.",
-    "ratingNegative": "Boring!",
-    "ratingPositive": "Amazing!",
+    "ratingNegative": {
+      "text": "Boring!",
+      "author": "Emma"
+    },
+    "ratingPositive": {
+      "text": "Amazing!",
+      "author": "Liam"
+    },
     "location": {
       "type": "Point",
       "coordinates": [
         174.7690,
         -41.2901
       ]
-    }
+    },
+    "image": "https://cataas.com/cat?height=200",
+    "details": "https://www.google.com"
   },
   {
     "title": "Location 2",
     "description": "Great spot for photos.",
-    "ratingNegative": "Ugly view!",
-    "ratingPositive": "Stunning!",
+    "ratingNegative": {
+      "text": "Ugly view!",
+      "author": "Sophia"
+    },
+    "ratingPositive": {
+      "text": "Stunning!",
+      "author": "Noah"
+    },
     "location": {
       "type": "Point",
       "coordinates": [
         170.5020,
         -45.8742
       ]
-    }
+    },
+    "image": "https://cataas.com/cat?height=200",
+    "details": "https://www.google.com"
   },
   {
     "title": "Location 3",
     "description": "Lovely area for a walk.",
-    "ratingNegative": "Too crowded!",
-    "ratingPositive": "Peaceful!",
+    "ratingNegative": {
+      "text": "Too crowded!",
+      "author": "Ava"
+    },
+    "ratingPositive": {
+      "text": "Peaceful!",
+      "author": "James"
+    },
     "location": {
       "type": "Point",
       "coordinates": [
         172.6317,
         -43.5321
       ]
-    }
+    },
+    "image": "https://cataas.com/cat?height=200",
+    "details": "https://www.google.com"
   },
   {
     "title": "Location 4",
     "description": "Nice beach and sand.",
-    "ratingNegative": "Dirty!",
-    "ratingPositive": "Perfect!",
+    "ratingNegative": {
+      "text": "Dirty!",
+      "author": "Olivia"
+    },
+    "ratingPositive": {
+      "text": "Perfect!",
+      "author": "Ethan"
+    },
     "location": {
       "type": "Point",
       "coordinates": [
         176.2765,
         -38.6857
       ]
-    }
+    },
+    "image": "https://cataas.com/cat?height=200",
+    "details": "https://www.google.com"
   },
   {
     "title": "Location 5",
     "description": "Historic landmarks here.",
-    "ratingNegative": "Uninteresting!",
-    "ratingPositive": "Fascinating!",
+    "ratingNegative": {
+      "text": "Uninteresting!",
+      "author": "Isabella"
+    },
+    "ratingPositive": {
+      "text": "Fascinating!",
+      "author": "Lucas"
+    },
     "location": {
       "type": "Point",
       "coordinates": [
         173.7762,
         -41.2995
       ]
-    }
+    },
+    "image": "https://cataas.com/cat?height=200",
+    "details": "https://www.google.com"
   },
   {
     "title": "Location 6",
     "description": "Great for hiking.",
-    "ratingNegative": "Exhausting!",
-    "ratingPositive": "Awesome trails!",
+    "ratingNegative": {
+      "text": "Exhausting!",
+      "author": "Mia"
+    },
+    "ratingPositive": {
+      "text": "Awesome trails!",
+      "author": "Benjamin"
+    },
     "location": {
       "type": "Point",
       "coordinates": [
         167.9672,
         -45.0312
       ]
-    }
+    },
+    "image": "https://cataas.com/cat?height=200",
+    "details": "https://www.google.com"
   },
   {
     "title": "Location 7",
     "description": "Lovely park with flowers.",
-    "ratingNegative": "Small!",
-    "ratingPositive": "Beautiful!",
+    "ratingNegative": {
+      "text": "Small!",
+      "author": "Charlotte"
+    },
+    "ratingPositive": {
+      "text": "Beautiful!",
+      "author": "Alexander"
+    },
     "location": {
       "type": "Point",
       "coordinates": [
         175.2830,
         -40.9006
       ]
-    }
+    },
+    "image": "https://cataas.com/cat?height=200",
+    "details": "https://www.google.com"
   },
   {
     "title": "Location 8",
     "description": "Great food around.",
-    "ratingNegative": "Expensive!",
-    "ratingPositive": "Delicious!",
+    "ratingNegative": {
+      "text": "Expensive!",
+      "author": "Amelia"
+    },
+    "ratingPositive": {
+      "text": "Delicious!",
+      "author": "Henry"
+    },
     "location": {
       "type": "Point",
       "coordinates": [
         174.7645,
         -36.8485
       ]
-    }
+    },
+    "image": "https://cataas.com/cat?height=200",
+    "details": "https://www.google.com"
   },
   {
     "title": "Location 9",
     "description": "Amazing river views.",
-    "ratingNegative": "Mosquitoes!",
-    "ratingPositive": "Breathtaking!",
+    "ratingNegative": {
+      "text": "Mosquitoes!",
+      "author": "Harper"
+    },
+    "ratingPositive": {
+      "text": "Breathtaking!",
+      "author": "William"
+    },
     "location": {
       "type": "Point",
       "coordinates": [
         169.9991,
         -46.4095
       ]
-    }
+    },
+    "image": "https://cataas.com/cat?height=200",
+    "details": "https://www.google.com"
   },
   {
     "title": "Location 10",
     "description": "Cool mountains to climb.",
-    "ratingNegative": "Dangerous!",
-    "ratingPositive": "Exciting!",
+    "ratingNegative": {
+      "text": "Dangerous!",
+      "author": "Evelyn"
+    },
+    "ratingPositive": {
+      "text": "Exciting!",
+      "author": "Daniel"
+    },
     "location": {
       "type": "Point",
       "coordinates": [
         172.4591,
         -43.5973
       ]
-    }
+    },
+    "image": "https://cataas.com/cat?height=200",
+    "details": "https://www.google.com"
   }
 ]
