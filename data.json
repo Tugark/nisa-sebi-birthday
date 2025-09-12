@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Location 1",
+    "description": "A beautiful place to visit.",
+    "ratingNegative": "Boring!",
+    "ratingPositive": "Amazing!",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        174.7690,
+        -41.2901
+      ]
+    }
+  },
+  {
+    "title": "Location 2",
+    "description": "Great spot for photos.",
+    "ratingNegative": "Ugly view!",
+    "ratingPositive": "Stunning!",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        170.5020,
+        -45.8742
+      ]
+    }
+  },
+  {
+    "title": "Location 3",
+    "description": "Lovely area for a walk.",
+    "ratingNegative": "Too crowded!",
+    "ratingPositive": "Peaceful!",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        172.6317,
+        -43.5321
+      ]
+    }
+  },
+  {
+    "title": "Location 4",
+    "description": "Nice beach and sand.",
+    "ratingNegative": "Dirty!",
+    "ratingPositive": "Perfect!",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        176.2765,
+        -38.6857
+      ]
+    }
+  },
+  {
+    "title": "Location 5",
+    "description": "Historic landmarks here.",
+    "ratingNegative": "Uninteresting!",
+    "ratingPositive": "Fascinating!",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        173.7762,
+        -41.2995
+      ]
+    }
+  },
+  {
+    "title": "Location 6",
+    "description": "Great for hiking.",
+    "ratingNegative": "Exhausting!",
+    "ratingPositive": "Awesome trails!",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        167.9672,
+        -45.0312
+      ]
+    }
+  },
+  {
+    "title": "Location 7",
+    "description": "Lovely park with flowers.",
+    "ratingNegative": "Small!",
+    "ratingPositive": "Beautiful!",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        175.2830,
+        -40.9006
+      ]
+    }
+  },
+  {
+    "title": "Location 8",
+    "description": "Great food around.",
+    "ratingNegative": "Expensive!",
+    "ratingPositive": "Delicious!",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        174.7645,
+        -36.8485
+      ]
+    }
+  },
+  {
+    "title": "Location 9",
+    "description": "Amazing river views.",
+    "ratingNegative": "Mosquitoes!",
+    "ratingPositive": "Breathtaking!",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        169.9991,
+        -46.4095
+      ]
+    }
+  },
+  {
+    "title": "Location 10",
+    "description": "Cool mountains to climb.",
+    "ratingNegative": "Dangerous!",
+    "ratingPositive": "Exciting!",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        172.4591,
+        -43.5973
+      ]
+    }
+  }
+]
