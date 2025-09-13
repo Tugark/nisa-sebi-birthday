@@ -42,5 +42,49 @@
     },
     "image": "https://images.squarespace-cdn.com/content/v1/6181dc62d2b78c05b573ba09/d485829b-93f0-4fed-bab6-453a09346cd2/ATTRACTION_BluePenguinsPukekura_071_DunedinNZ.jpg",
     "details": "https://www.bluepenguins.co.nz/"
+  },
+  {
+    "title": "Chameleon Stargazing Tour",
+    "description": "Take the opportunity to enjoy some guided stargazing with this tour at Lake Tekapo. Savor hot chocolate, cozy blankets, and roasted marshmallows under the night sky. Listen to enchanting stories and fascinating facts about the celestial wonders from your guide.",
+    "earlyBookingAdvised": false,
+    "ratingNegative": {
+      "text": "We brought our 18-month-old child, and the stargazing guide rudely informed us that the child was too noisy and we'd be “kicked off” the bus. I feel this unfriendly attitude toward children really needs improvement. Roasting marshmallows was also boring.",
+      "author": "Zila. S"
+    },
+    "ratingPositive": {
+      "text": "GODDESS STARGAZING EXPERIENCE What a stunning experience with our two fabulous stargazing guides.",
+      "author": "Jocelyn Oades"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        170.47134861859635,
+        -44.01295879330667
+      ]
+    },
+    "image": "https://i0.wp.com/chameleonstargazing.com/wp-content/uploads/2021/06/cropped-web-furniture-StevieD.jpg?resize=1024%2C1024&ssl=1",
+    "details": "https://chameleonstargazing.com/signature-tour-english/"
+  },
+  {
+    "title": "Rotorua Forest Hot Tub Soak at Secret Spot",
+    "description": "Take a break from a busy sightseeing schedule and relax in the tranquil natural environment of the Secret Spot Hot Tubs complex. Surrounded by the Whakarewarewa Forest are a collection of hand-crafted cedar hot tubs in which you can soak your aches and stress away.",
+    "earlyBookingAdvised": false,
+    "ratingNegative": {
+      "text": "THIS IS NOT A THERMAL SPA. Dig deep enough in the FAQ and it states this but as far as I am concerned in Rotorua it is what is expected. Nice setting but not what I went there for.",
+      "author": "Kate Osborne"
+    },
+    "ratingPositive": {
+      "text": "We had a great early evening soak. It was nice to have the drinks delivered to our hot tub for us to enjoy.",
+      "author": "charlotte and kerry forsyth"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        176.2532212681275,
+        -38.175716789192904
+      ]
+    },
+    "image": "https://dynamic-media.tacdn.com/media/photo-o/2f/2e/0c/15/caption.jpg?w=1400&h=1000&s=1",
+    "details": "https://secretspot.nz/"
   }
 ]
