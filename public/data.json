@@ -1,212 +1,46 @@
 [
   {
-    "title": "Location 1",
-    "description": "A beautiful place to visit.",
+    "title": "Kapiti Island",
+    "description": "Predator-free sanctuary with native wildlife, walking trails, and stunning views &mdash; the journey with the boat is an adventure in itself. Beware of the cheeky weka and kaka birds!",
+    "earlyBookingAdvised": true,
     "ratingNegative": {
-      "text": "Boring!",
-      "author": "Emma"
+      "text": "i went there and was instantly jumped by a hoard of angry seals",
+      "author": "Matheo Sharp"
     },
     "ratingPositive": {
-      "text": "Amazing!",
-      "author": "Liam"
+      "text": "It is a nice looking island I love it when you are playing in the sand \uD83D\uDE00\uD83D\uDE09 Go to beach now.have a great stay.!",
+      "author": "Josh Humphreys"
     },
     "location": {
       "type": "Point",
       "coordinates": [
-        174.7690,
-        -41.2901
+        174.91305072767275,
+        -40.85623073542328
       ]
     },
-    "image": "https://cataas.com/cat?height=200",
-    "details": "https://www.google.com"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToFfNdBb6eiBEprzlN9PxWxtK4sRRwwfqvJQ&s",
+    "details": "https://www.kapitiisland.com/"
   },
   {
-    "title": "Location 2",
-    "description": "Great spot for photos.",
+    "title": "Blue Penguins Pukekura",
+    "description": "Watch the world's smallest penguins return to shore at dusk in; this is an almost guaranteed sighting. Pro tip: Do not run to the front of the viewing platform, as the penguins will walk by on the left, giving you a much better and longer view.",
+    "earlyBookingAdvised": true,
     "ratingNegative": {
-      "text": "Ugly view!",
-      "author": "Sophia"
+      "text": "They restrict the access to the beach. Not possible to see without a tour. Tourist trap!",
+      "author": "Mikhail Grevtsov"
     },
     "ratingPositive": {
-      "text": "Stunning!",
-      "author": "Noah"
+      "text": "They’re impossibly cute, like tiny plush toys come to life, and you can often hear them under the platform you’re standing on even if you can’t see them.",
+      "author": "Luthien E."
     },
     "location": {
       "type": "Point",
       "coordinates": [
-        170.5020,
-        -45.8742
+        170.72837810000007,
+        -45.77698853646581
       ]
     },
-    "image": "https://cataas.com/cat?height=200",
-    "details": "https://www.google.com"
-  },
-  {
-    "title": "Location 3",
-    "description": "Lovely area for a walk.",
-    "ratingNegative": {
-      "text": "Too crowded!",
-      "author": "Ava"
-    },
-    "ratingPositive": {
-      "text": "Peaceful!",
-      "author": "James"
-    },
-    "location": {
-      "type": "Point",
-      "coordinates": [
-        172.6317,
-        -43.5321
-      ]
-    },
-    "image": "https://cataas.com/cat?height=200",
-    "details": "https://www.google.com"
-  },
-  {
-    "title": "Location 4",
-    "description": "Nice beach and sand.",
-    "ratingNegative": {
-      "text": "Dirty!",
-      "author": "Olivia"
-    },
-    "ratingPositive": {
-      "text": "Perfect!",
-      "author": "Ethan"
-    },
-    "location": {
-      "type": "Point",
-      "coordinates": [
-        176.2765,
-        -38.6857
-      ]
-    },
-    "image": "https://cataas.com/cat?height=200",
-    "details": "https://www.google.com"
-  },
-  {
-    "title": "Location 5",
-    "description": "Historic landmarks here.",
-    "ratingNegative": {
-      "text": "Uninteresting!",
-      "author": "Isabella"
-    },
-    "ratingPositive": {
-      "text": "Fascinating!",
-      "author": "Lucas"
-    },
-    "location": {
-      "type": "Point",
-      "coordinates": [
-        173.7762,
-        -41.2995
-      ]
-    },
-    "image": "https://cataas.com/cat?height=200",
-    "details": "https://www.google.com"
-  },
-  {
-    "title": "Location 6",
-    "description": "Great for hiking.",
-    "ratingNegative": {
-      "text": "Exhausting!",
-      "author": "Mia"
-    },
-    "ratingPositive": {
-      "text": "Awesome trails!",
-      "author": "Benjamin"
-    },
-    "location": {
-      "type": "Point",
-      "coordinates": [
-        167.9672,
-        -45.0312
-      ]
-    },
-    "image": "https://cataas.com/cat?height=200",
-    "details": "https://www.google.com"
-  },
-  {
-    "title": "Location 7",
-    "description": "Lovely park with flowers.",
-    "ratingNegative": {
-      "text": "Small!",
-      "author": "Charlotte"
-    },
-    "ratingPositive": {
-      "text": "Beautiful!",
-      "author": "Alexander"
-    },
-    "location": {
-      "type": "Point",
-      "coordinates": [
-        175.2830,
-        -40.9006
-      ]
-    },
-    "image": "https://cataas.com/cat?height=200",
-    "details": "https://www.google.com"
-  },
-  {
-    "title": "Location 8",
-    "description": "Great food around.",
-    "ratingNegative": {
-      "text": "Expensive!",
-      "author": "Amelia"
-    },
-    "ratingPositive": {
-      "text": "Delicious!",
-      "author": "Henry"
-    },
-    "location": {
-      "type": "Point",
-      "coordinates": [
-        174.7645,
-        -36.8485
-      ]
-    },
-    "image": "https://cataas.com/cat?height=200",
-    "details": "https://www.google.com"
-  },
-  {
-    "title": "Location 9",
-    "description": "Amazing river views.",
-    "ratingNegative": {
-      "text": "Mosquitoes!",
-      "author": "Harper"
-    },
-    "ratingPositive": {
-      "text": "Breathtaking!",
-      "author": "William"
-    },
-    "location": {
-      "type": "Point",
-      "coordinates": [
-        169.9991,
-        -46.4095
-      ]
-    },
-    "image": "https://cataas.com/cat?height=200",
-    "details": "https://www.google.com"
-  },
-  {
-    "title": "Location 10",
-    "description": "Cool mountains to climb.",
-    "ratingNegative": {
-      "text": "Dangerous!",
-      "author": "Evelyn"
-    },
-    "ratingPositive": {
-      "text": "Exciting!",
-      "author": "Daniel"
-    },
-    "location": {
-      "type": "Point",
-      "coordinates": [
-        172.4591,
-        -43.5973
-      ]
-    },
-    "image": "https://cataas.com/cat?height=200",
-    "details": "https://www.google.com"
+    "image": "https://images.squarespace-cdn.com/content/v1/6181dc62d2b78c05b573ba09/d485829b-93f0-4fed-bab6-453a09346cd2/ATTRACTION_BluePenguinsPukekura_071_DunedinNZ.jpg",
+    "details": "https://www.bluepenguins.co.nz/"
   }
 ]

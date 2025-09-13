@@ -15,13 +15,14 @@ type Location = {
     location: Point;
     image: string;
     details: string;
+    earlyBookingAdvised?: boolean;
 };
 
 const map = new Map({
     container: 'map', // container id
     style: 'https://tiles.openfreemap.org/styles/liberty',
     center: [172.463, -41.2],
-    zoom: 6,
+    zoom: 5,
     maxBounds: [
         [156.0, -57.5], // southwest coordinates (lng, lat)
         [189.0, -14.0]  // northeast coordinates (lng, lat)
@@ -43,13 +44,14 @@ map.on('load', async () => {
 
 function generatePopupForLocation(item: Location): Popup {
     return new Popup({offset: 25, focusAfterOpen: false, closeButton: false, className: "popup"}).setHTML(`
-        <img src="${item.image}&t=${Math.random()}" alt="${item.title}" class="img-fluid rounded mx-auto d-block" style="max-height: 300px;"/>
+        <img src="${item.image}&t=${Math.random()}" alt="${item.title}" class="img-fluid rounded mx-auto d-block mb-4" style="max-height: 300px;"/>
         <h3 class="display-6">${item.title}</h3>
+        ${item.earlyBookingAdvised ? '<p class="text-warning-emphasis"><i class="bi bi-exclamation-circle"></i>&nbsp;Early booking adviced!</p>' : ''}
         <p class="lead">${item.description}</p>
         <hr>
         <h4>What Google Reviewers say</h4>
         <figure>
-          <blockquote class="blockquote">
+          <blockquote class="blockquote fs-6">
             <p>${item.ratingPositive.text}</p>
           </blockquote>
           <figcaption class="blockquote-footer">
@@ -57,7 +59,7 @@ function generatePopupForLocation(item: Location): Popup {
           </figcaption>
         </figure>
         <figure>
-          <blockquote class="blockquote">
+          <blockquote class="blockquote fs-6">
             <p>${item.ratingNegative.text}</p>
           </blockquote>
           <figcaption class="blockquote-footer">
