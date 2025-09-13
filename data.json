@@ -20,5 +20,27 @@
     },
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToFfNdBb6eiBEprzlN9PxWxtK4sRRwwfqvJQ&s",
     "details": "https://www.kapitiisland.com/"
+  },
+  {
+    "title": "Blue Penguins Pukekura",
+    "description": "Watch the world's smallest penguins return to shore at dusk in; this is an almost guaranteed sighting. Pro tip: Do not run to the front of the viewing platform, as the penguins will walk by on the left, giving you a much better and longer view.",
+    "earlyBookingAdvised": true,
+    "ratingNegative": {
+      "text": "They restrict the access to the beach. Not possible to see without a tour. Tourist trap!",
+      "author": "Mikhail Grevtsov"
+    },
+    "ratingPositive": {
+      "text": "They’re impossibly cute, like tiny plush toys come to life, and you can often hear them under the platform you’re standing on even if you can’t see them.",
+      "author": "Luthien E."
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        170.72837810000007,
+        -45.77698853646581
+      ]
+    },
+    "image": "https://images.squarespace-cdn.com/content/v1/6181dc62d2b78c05b573ba09/d485829b-93f0-4fed-bab6-453a09346cd2/ATTRACTION_BluePenguinsPukekura_071_DunedinNZ.jpg",
+    "details": "https://www.bluepenguins.co.nz/"
   }
 ]
