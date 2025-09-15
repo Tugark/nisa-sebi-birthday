@@ -86,5 +86,49 @@
     },
     "image": "https://dynamic-media.tacdn.com/media/photo-o/2f/2e/0c/15/caption.jpg?w=1400&h=1000&s=1",
     "details": "https://secretspot.nz/"
+  },
+  {
+    "title": "Waitomo Glowworm Caves",
+    "description": "Famous for their abundance of glow worms, extensive underground river system and stunning stalactite and stalagmites formations, a trip to the Waitomo caves is a trip to another world.",
+    "earlyBookingAdvised": true,
+    "ratingNegative": {
+      "text": "Commercial overkill!\nNo thanks, I can only recommend the Abbay Caves near Whangarei or the other glowworm caves near Waipu. Both are free and full of glowworms.",
+      "author": "Alex Schassada"
+    },
+    "ratingPositive": {
+      "text": "This tour is definitely worth treating yourself to. It is a very special experience to paddle through the dark cave passages with thousands of tiny glowworms twinkling above you. The cave also features stalactites and stalagmites.",
+      "author": "Gu Ki"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        175.10474757556088,
+        -38.260367539654844
+      ]
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/46/8d/62/our-expert-guides-take.jpg?w=1600&h=-1&s=1",
+    "details": "https://www.waitomo.com/glowworms-and-caves/waitomo-glowworm-caves"
+  },
+  {
+    "title": "Redwoods Treewalk",
+    "description": "Majestic and magical, the Redwoods Treewalk™ experience is truly a walk to remember. Suspended high above the forest floor, encounter 75-metre-tall redwoods as you walk across eco-suspended bridges and platforms intricately designed to honour and accentuate the stunning natural environment. Regarded by many as one of the best tree top walks in New Zealand.",
+    "earlyBookingAdvised": false,
+    "ratingNegative": {
+      "text": "You need to buy tickets BEFORE you go.  Terribly sign posted so figuring out where to go at night is impossible. I stood in a queue for 30 minutes for the night walk only to be told by someone walking the line that I needed to buy tickets first which was in a completely different queue. I gave up.",
+      "author": "Paul"
+    },
+    "ratingPositive": {
+      "text": "Beautiful tree trail. You should have a head for heights, but it's only 12 meters high at most. There are also beautiful hiking trails on the ground. We took the green trail (2 hours at a relaxed pace). It was very beautiful. But there are also longer trails (8 hours).",
+      "author": "S. AJ"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        176.2731331190372,
+        -38.156448819535015
+      ]
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/f0/91/8f/redwoods-nightlights.jpg?w=1100&h=-1&s=1",
+    "details": "https://www.waitomo.com/glowworms-and-caves/waitomo-glowworm-caves"
   }
 ]
