@@ -8,8 +8,8 @@ type Rating = {
 type Location = {
     title: string;
     description: string;
-    ratingNegative: Rating;
-    ratingPositive: Rating;
+    ratingNegative?: Rating;
+    ratingPositive?: Rating;
     location: Point;
     image: string;
     details: string;
@@ -50,30 +50,37 @@ const initMap = () => {
 }
 const generatePopupForLocation: (item: Location) => Popup = (item: Location) => {
     return new Popup({anchor: 'top-right', focusAfterOpen: false, closeButton: false, className: "popup"}).setHTML(`
-        <img src="${item.image}&t=${Math.random()}" alt="${item.title}" class="img-fluid rounded mx-auto d-block mb-4" style="max-height: 300px;"/>
+        <img src="${item.image}" alt="${item.title}" class="img-fluid rounded mx-auto d-block mb-4" style="max-height: 300px;"/>
         <h3 class="display-6">${item.title}</h3>
         ${item.earlyBookingAdvised ? '<p class="text-warning-emphasis"><i class="bi bi-exclamation-circle"></i>&nbsp;Early booking adviced!</p>' : ''}
         <p class="lead">${item.description}</p>
         <hr>
-        <h4>What Google Reviewers say</h4>
-        <figure>
-          <blockquote class="blockquote fs-6">
-            <p>${item.ratingPositive.text}</p>
-          </blockquote>
-          <figcaption class="blockquote-footer">
-            ★★★★★ by ${item.ratingPositive.author}
-          </figcaption>
-        </figure>
-        <figure>
-          <blockquote class="blockquote fs-6">
-            <p>${item.ratingNegative.text}</p>
-          </blockquote>
-          <figcaption class="blockquote-footer">
-            ★☆☆☆☆ by ${item.ratingNegative.author}
-          </figcaption>
-        </figure>
+        ${item.ratingPositive && item.ratingNegative ? getRatingBlock(item.ratingPositive, item.ratingPositive) : ''}
+        
         <a class="btn btn-primary d-block" href="${item.details}" role="button" target="_blank" rel="noopener nofollow noreferrer">Details</a>
     `)
+}
+
+const getRatingBlock = (ratingPositive: Rating, ratingNegative: Rating) => {
+    return `
+    <h4>What Google Reviewers say</h4>
+        <figure>
+          <blockquote class="blockquote fs-6">
+            <p>${ratingPositive.text}</p>
+          </blockquote>
+          <figcaption class="blockquote-footer">
+            ★★★★★ by ${ratingPositive.author}
+          </figcaption>
+        </figure>
+        <figure>
+          <blockquote class="blockquote fs-6">
+            <p>${ratingNegative.text}</p>
+          </blockquote>
+          <figcaption class="blockquote-footer">
+            ★☆☆☆☆ by ${ratingNegative.author}
+          </figcaption>
+        </figure>
+    `
 }
 
 export default initMap;

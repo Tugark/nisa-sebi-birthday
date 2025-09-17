@@ -130,5 +130,41 @@
     },
     "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/f0/91/8f/redwoods-nightlights.jpg?w=1100&h=-1&s=1",
     "details": "https://www.waitomo.com/glowworms-and-caves/waitomo-glowworm-caves"
+  },
+  {
+    "title": "Glenorchy",
+    "description": "A small town located at the northern end of Lake Wakatipu, Glenorchy is known for its stunning natural beauty and outdoor activities. It is a popular destination for hiking, fishing, and horseback riding, and is also a gateway to several nearby national parks, including Mount Aspiring National Park and Fiordland National Park.",
+    "earlyBookingAdvised": false,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        168.3748236414746,
+        -44.83865769395364
+      ]
+    },
+    "image": "https://assets.theheadwatersecolodge.com/images/scenic/1-glenorchy_1920x1080-(1).jpg",
+    "details": "https://www.newzealand.com/int/glenorchy/"
+  },
+  {
+    "title": "High Country Horses",
+    "description": "This is your change to not only ride horses in the stunning Glenorchy area, but also to visit the filming location of Isengard and views of the Misty Mountains and many more.",
+    "earlyBookingAdvised": false,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        168.37775957093749,
+        -44.79936895087176
+      ]
+    },
+    "ratingNegative": {
+      "text": "I was really looking forward to this experience, but I didn’t get to ride at all. I was nervous and had trouble getting on the horse. I asked for help, but the staff gave up quickly and just rode off with the rest of the group — leaving me behind. I was stunned and hurt. No second chance, no real support, just left alone after paying over $100.",
+      "author": "Vincy Chen"
+    },
+    "ratingPositive": {
+      "text": "The ride was about and hour and a half threw amazing scenery, it was breathtaking (also you ride by the Misty Mountains from the LOTR). The horses were awesome the whole ride, the trail was smooth and flawless.",
+      "author": "Kayla"
+    },
+    "image": "https://www.everythingnewzealand.com/resources/cache/700x349/1/items~large/High-country-horses-rees-river-3.jpg",
+    "details": "https://highcountryhorses.nz/"
   }
 ]
