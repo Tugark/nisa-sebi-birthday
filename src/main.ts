@@ -24,7 +24,7 @@ const map = new Map({
     center: [172.463, -41.2],
     zoom: 5,
     maxBounds: [
-        [156.0, -57.5], // southwest coordinates (lng, lat)
+        [146.0, -57.5], // southwest coordinates (lng, lat)
         [189.0, -14.0]  // northeast coordinates (lng, lat)
     ]
 });
@@ -43,7 +43,7 @@ map.on('load', async () => {
 });
 
 function generatePopupForLocation(item: Location): Popup {
-    return new Popup({offset: 25, focusAfterOpen: false, closeButton: false, className: "popup"}).setHTML(`
+    return new Popup({anchor: 'top-right', focusAfterOpen: false, closeButton: false, className: "popup"}).setHTML(`
         <img src="${item.image}&t=${Math.random()}" alt="${item.title}" class="img-fluid rounded mx-auto d-block mb-4" style="max-height: 300px;"/>
         <h3 class="display-6">${item.title}</h3>
         ${item.earlyBookingAdvised ? '<p class="text-warning-emphasis"><i class="bi bi-exclamation-circle"></i>&nbsp;Early booking adviced!</p>' : ''}
