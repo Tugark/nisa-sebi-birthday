@@ -746,7 +746,7 @@ ${k.shaderPreludeCode.vertexSource}`,define:k.shaderDefine},defaultProjectionDat
         ${A.earlyBookingAdvised?'<p class="text-warning-emphasis"><i class="bi bi-exclamation-circle"></i>&nbsp;Early booking adviced!</p>':""}
         <p class="lead">${A.description}</p>
         <hr>
-        ${A.ratingPositive&&A.ratingNegative?vy(A.ratingPositive,A.ratingPositive):""}
+        ${A.ratingPositive&&A.ratingNegative?vy(A.ratingPositive,A.ratingNegative):""}
         
         <a class="btn btn-primary d-block" href="${A.details}" role="button" target="_blank" rel="noopener nofollow noreferrer">Details</a>
     `),vy=(A,_)=>`

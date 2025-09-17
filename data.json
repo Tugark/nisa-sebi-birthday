@@ -18,7 +18,7 @@
         -40.85623073542328
       ]
     },
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToFfNdBb6eiBEprzlN9PxWxtK4sRRwwfqvJQ&s",
+    "image": "https://nz.rs-cdn.com/images/nwsz8-gt67l/feature/9d432716a905fed5a37d2d8c5d19bdad__3688/hcrop2292x1576@stretch.png.webp",
     "details": "https://www.kapitiisland.com/"
   },
   {
@@ -62,7 +62,7 @@
         -44.01295879330667
       ]
     },
-    "image": "https://i0.wp.com/chameleonstargazing.com/wp-content/uploads/2021/06/cropped-web-furniture-StevieD.jpg?resize=1024%2C1024&ssl=1",
+    "image": "https://res.klook.com/image/upload/w_1265,h_785,c_fill,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/rwcmgzfxg9sdomfuzi7o.webp",
     "details": "https://chameleonstargazing.com/signature-tour-english/"
   },
   {
@@ -111,7 +111,7 @@
   },
   {
     "title": "Redwoods Treewalk",
-    "description": "Majestic and magical, the Redwoods Treewalk™ experience is truly a walk to remember. Suspended high above the forest floor, encounter 75-metre-tall redwoods as you walk across eco-suspended bridges and platforms intricately designed to honour and accentuate the stunning natural environment. Regarded by many as one of the best tree top walks in New Zealand.",
+    "description": "Majestic and magical, the Redwoods Treewalk™ experience is truly a walk to remember. Suspended high above the forest floor, encounter 75-metre-tall redwoods as you walk across eco-suspended bridges and platforms intricately designed to honour and accentuate the stunning natural environment. Regarded by many as one of the best tree top walks in New Zealand. At night, the forest is transformed into a magical wonderland with thousands of lights illuminating the trees and pathways. The Redwoods Nightlights experience is a must-see for visitors to Rotorua.",
     "earlyBookingAdvised": false,
     "ratingNegative": {
       "text": "You need to buy tickets BEFORE you go.  Terribly sign posted so figuring out where to go at night is impossible. I stood in a queue for 30 minutes for the night walk only to be told by someone walking the line that I needed to buy tickets first which was in a completely different queue. I gave up.",
@@ -128,8 +128,8 @@
         -38.156448819535015
       ]
     },
-    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/f0/91/8f/redwoods-nightlights.jpg?w=1100&h=-1&s=1",
-    "details": "https://www.waitomo.com/glowworms-and-caves/waitomo-glowworm-caves"
+    "image": "https://www.treewalk.co.nz/wp-content/uploads/2019/06/nightlights-redwoods.jpg",
+    "details": "https://www.treewalk.co.nz/the-walk/redwoods-nightlights/"
   },
   {
     "title": "Glenorchy",
@@ -166,5 +166,27 @@
     },
     "image": "https://www.everythingnewzealand.com/resources/cache/700x349/1/items~large/High-country-horses-rees-river-3.jpg",
     "details": "https://highcountryhorses.nz/"
+  },
+  {
+    "title": "Hobbiton Movie Set",
+    "description": "A must-see for any Lord of the Rings or Hobbit fan, the Hobbiton Movie Set offers a chance to explore the charming village of Hobbiton, complete with hobbit holes, the Green Dragon Inn, and the iconic Party Tree.",
+    "earlyBookingAdvised": true,
+    "ratingNegative": {
+      "text": "Nothing special really, just a movie set of mediocre movie. Not much to see, very expensive; not really worth the visit.",
+        "author": "Luckasz Merzenich"
+    },
+    "ratingPositive": {
+      "text": "If I cOuLd, I wOuLd LiVe HeRe FoReVeR. LoTr Is ThE bEsT ❤❤❤❤",
+      "author": "Lord W."
+    },
+    "image": "https://www.newzealand.com/assets/externally-managed-assets/tbd-assets/tbd-folder-4936190/img-1713486563-9589-615421-tbd-asset__ExtRewriteWyJqcGciLCJ3ZWJwIl0_aWxvdmVrZWxseQo_CropResizeWzE0NDAsODEyLDkwLCJ3ZWJwIl0.webp",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        175.6820848236082,
+        -37.87274384807379
+      ]
+    },
+    "details": "https://www.hobbitontours.com/en/"
   }
 ]
