@@ -25,3 +25,19 @@ html, body {
     font: unset !important;
     font-size: unset !important;
 }
+
+.back-to-start {
+    position: absolute;
+    right: 0;
+    z-index: 2;
+    width: 150px;
+}
+
+.back-to-start:hover {
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.mobile-warning {
+    max-width: 42em;
+}

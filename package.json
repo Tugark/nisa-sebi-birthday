@@ -9,11 +9,14 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@types/bootstrap": "^5.2.10",
     "@types/geojson": "^7946.0.16",
     "typescript": "~5.8.3",
     "vite": "^7.1.2"
   },
   "dependencies": {
+    "bootstrap": "^5.3.8",
+    "bootstrap-icons": "^1.13.1",
     "maplibre-gl": "^5.7.1"
   }
 }
