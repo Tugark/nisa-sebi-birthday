@@ -26,6 +26,10 @@ html, body {
     font-size: unset !important;
 }
 
+.maplibregl-marker {
+    cursor: pointer;
+}
+
 .back-to-start {
     position: absolute;
     right: 0;
