@@ -55,7 +55,7 @@ const generatePopupForLocation: (item: Location) => Popup = (item: Location) => 
         ${item.earlyBookingAdvised ? '<p class="text-warning-emphasis"><i class="bi bi-exclamation-circle"></i>&nbsp;Early booking adviced!</p>' : ''}
         <p class="lead">${item.description}</p>
         <hr>
-        ${item.ratingPositive && item.ratingNegative ? getRatingBlock(item.ratingPositive, item.ratingPositive) : ''}
+        ${item.ratingPositive && item.ratingNegative ? getRatingBlock(item.ratingPositive, item.ratingNegative) : ''}
         
         <a class="btn btn-primary d-block" href="${item.details}" role="button" target="_blank" rel="noopener nofollow noreferrer">Details</a>
     `)
