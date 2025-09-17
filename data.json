@@ -173,7 +173,7 @@
     "earlyBookingAdvised": true,
     "ratingNegative": {
       "text": "Nothing special really, just a movie set of mediocre movie. Not much to see, very expensive; not really worth the visit.",
-        "author": "Luckasz Merzenich"
+      "author": "Luckasz Merzenich"
     },
     "ratingPositive": {
       "text": "If I cOuLd, I wOuLd LiVe HeRe FoReVeR. LoTr Is ThE bEsT ❤❤❤❤",
@@ -188,5 +188,135 @@
       ]
     },
     "details": "https://www.hobbitontours.com/en/"
+  },
+  {
+    "title": "Doubtful Sound",
+    "description": "Less visited than the famous Milford Sound, Doubtful Sound offers a more tranquil and secluded experience. Take a boat tour to explore the fjord's stunning scenery, waterfalls, and wildlife, including dolphins and seals. The journey to Doubtful Sound involves a scenic drive and a ferry crossing, adding to the adventure. Several providers and different tours available.",
+    "earlyBookingAdvised": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        167.0301766145741,
+        -45.59653757962267
+      ]
+    },
+    "ratingNegative": {
+      "text": "This trip was way over priced for what you got",
+      "author": "Valerie M."
+    },
+    "ratingPositive": {
+      "text": "We did the overnight tour. Sean and Juanita were incredible. You are in for a treat if you have them for your crew. The visuals were incredible and the food was absolutely delicious (shout out again to Juanita). We swam, kayaked and Sean even got us under a small waterfall.",
+      "author": "Wes Noonan"
+    },
+    "image": "https://cdn.luxurytravelmag.com.au/wp-content/uploads/2024/07/30192454/Doubtful-Sounds-NZ-CANTO_shutterstock_1100044448.jpg",
+    "details": "https://www.realnz.com/en/destinations/doubtful-sound/"
+  },
+  {
+    "title": "Pouakai Tarns",
+    "description": "Famous reflective tarns with Mount Taranaki in the background. A moderately challenging 6-8 hour return hike from the Pouakai car park. The track is well marked and maintained, but be prepared for changing weather conditions. Extremely highly frequented track, but if you continue past the tarns onto Henry Peak, you'll get a lot more solitude and even better views.",
+    "earlyBookingAdvised": false,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        174.04722368004437,
+        -39.233759229087106
+      ]
+    },
+    "ratingNegative": {
+      "text": "Overrated and very hard for beginners. We are beginners and it took us 3h for one direction. It was hell, my legs and feet hurt even days after the trip. Dont fall for all other comments. You need very good hiking shoes. There are way better, more beautiful, and easier hiking tracks for taranaki. The little pond was \"meh\".",
+      "author": "Volker Racho"
+    },
+    "ratingPositive": {
+      "text": "This was my only day to see the mountain so with the rain coming in I couldn't see the whole mountain but I did catch the sunrise which was beautiful! I started my hike at 5am and got to the reflective tarn by 6:50am. You are walking on built steps pretty much the entire time.",
+      "author": "Caleb Porco"
+    },
+    "image": "https://images.squarespace-cdn.com/content/v1/5fc324c52cf09257bd7a8d39/1616201111183-MAS5OFZXA5D92DY79IZ6/taranaki-tarn.jpg?format=2500w",
+    "details": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/taranaki/places/te-papa-kura-o-taranaki/things-to-do/tracks/mangorei-track/"
+  },
+  {
+    "title": "Cape Kidnappers Gannet Colony",
+    "description": "Home to the largest and most accessible mainland gannet colony in the world, Cape Kidnappers is a must-visit for bird enthusiasts and nature lovers. Sadly, the walkway is closed due to rockfalls, but the guided tours offer even more views and background information.",
+    "earlyBookingAdvised": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        177.09160423140844,
+        -39.64526733047432
+      ]
+    },
+    "ratingNegative": {
+      "text": "Just bird",
+      "author": "Anonymous Horse"
+    },
+    "ratingPositive": {
+      "text": "I bet you’ve never seen anything like this before. Had the pleasure of giving tours to black reef, flat rock, and the plateau. Never got tired of the views. Just gotta go in person to see these guys. But really look at the sea of birds. They all got their own thing going on and it’s nice to sit and appreciate what’s happening around you. Like how did I get here? Life really is unpredictable and full of surprises",
+      "author": "small bsian"
+    },
+    "image": "https://gannetsafaris.co.nz/wp-content/uploads/2022/06/Cape-Kidnappers-Gannets-Hawkes-Bay-1.jpg",
+    "details": "https://gannetsafaris.co.nz/"
+  },
+  {
+    "title": "Napier",
+    "description": "Known for its stunning Art Deco architecture, Napier is a charming coastal city that was rebuilt in the Art Deco style after a devastating earthquake in 1931. Take a stroll through the city to admire the unique buildings, visit the local museums, and enjoy the beautiful beaches.",
+    "earlyBookingAdvised": false,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        176.9114918787321,
+        -39.4928486140731
+      ]
+    },
+    "image": "https://nzpocketguide.com/wp-content/uploads/2020/06/Napier-town-centre-Feature-Mandatory-Credit-NZPocketGuide.com_.jpg",
+    "details": "https://www.newzealand.com/int/napier/"
+  },
+  {
+    "title": "Hawke's Bay Wineries",
+    "description": "Hawke's Bay is one of New Zealand's premier wine regions, known for its excellent red wines, particularly Merlot and Cabernet Sauvignon. There are plenty of wineries to visit, either self-guided or via tour. Or you do a self-guided bike tour.",
+    "earlyBookingAdvised": false,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        176.8336827449834,
+        -39.657985922998904
+      ]
+    },
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523487885.jpg?k=205bd4a204203549cea436ba7978b019e71083c5154cbb66d8e3658d7c71d8c5&o=",
+    "details": "https://www.newzealand.com/int/feature/wineries-in-hawkes-bay/"
+  },
+  {
+    "title": "Shantytown Heritage Park",
+    "description": "Experience the gold rush era of the 1860s at Shantytown Heritage Park. This recreated 19th-century gold mining town offers a range of activities, including gold panning, steam train rides, and exploring historic buildings.",
+    "earlyBookingAdvised": false,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        171.18227619911778,
+        -42.53312083448769
+      ]
+    },
+    "ratingNegative": {
+      "text": "Shut the place down already or update it and change the ridiculous pricing. the staff need to learn customer service, and would be good if there was a guided tour. Pay extra to gold pan is outrageous and is just a big tourist scam! Will not recommend to anyone",
+      "author": "Hitahinga Moaho"
+    },
+    "ratingPositive": {
+      "text": "Love this place, great for adults and kids.. It's a must do.. So much fun, lots history",
+      "author": "Jo Hempseed"
+    },
+    "image": "https://www.newzealand.com/assets/externally-managed-assets/tbd-assets/tbd-folder-6369043/img-1713591872-5435-1030366-tbd-asset__ExtRewriteWyJqcGciLCJ3ZWJwIl0_aWxvdmVrZWxseQo_CropResizeWzE0NDAsODEyLDkwLCJ3ZWJwIl0.webp",
+    "details": "https://www.shantytown.co.nz/"
+  },
+  {
+    "title": "Carrotland Adventure Park",
+    "description": "Although there are some interesting tidbits about the history of vegetable farming in the area &mdash; it is mainly for seeing all the creepy over-sized vegetable statues. Bonus: Carrot Rocket and Carrot F1 car.",
+    "earlyBookingAdvised": false,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        175.40340909742807,
+        -39.419966766013815
+      ]
+    },
+    "image": "https://www.stuff.co.nz/media/images/9Tzi8ywRz924XE3uHaD6DfGZQfjEdZd7oKlsiR53VLHvSZExpMzuRmKdwHbkL9PkJeqj2hUGfQh3l3yXdLMMxdAMVoyuzjNqwEWV%2FJgX6M1+U9pbz2xnSkjP9us3wtv+9520zPRdqi2PSSLLScL9kOH3Qp8JgLOZXylsIUNx4g%2FQ%2FVm+LRVCQvS3Lm82X4BM?resolution=1240x700",
+    "details": "https://www.visitruapehu.com/see-do/family-fun/carrotland-adventure-park"
   }
 ]
