@@ -318,5 +318,49 @@
     },
     "image": "https://www.stuff.co.nz/media/images/9Tzi8ywRz924XE3uHaD6DfGZQfjEdZd7oKlsiR53VLHvSZExpMzuRmKdwHbkL9PkJeqj2hUGfQh3l3yXdLMMxdAMVoyuzjNqwEWV%2FJgX6M1+U9pbz2xnSkjP9us3wtv+9520zPRdqi2PSSLLScL9kOH3Qp8JgLOZXylsIUNx4g%2FQ%2FVm+LRVCQvS3Lm82X4BM?resolution=1240x700",
     "details": "https://www.visitruapehu.com/see-do/family-fun/carrotland-adventure-park"
+  },
+  {
+    "title": "Hanmer Springs Thermal Pools & Spa",
+    "description": "Relax and rejuvenate in the natural hot springs of Hanmer Springs. The thermal pools offer a range of temperatures and settings, from family-friendly pools to more secluded and tranquil spa areas.",
+    "earlyBookingAdvised": false,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        172.82911063463052,
+        -42.52237415919022
+      ]
+    },
+    "ratingNegative": {
+      "text": "Lovely hot springs but very rude lady on front desk today",
+      "author": "Emi Frost"
+    },
+    "ratingPositive": {
+      "text": "Fabulous \uD83D\uDC4C …",
+      "author": "Frances Roy"
+    },
+    "image": "https://www.newzealand.com/assets/externally-managed-assets/tbd-assets/tbd-folder-10078845/img-1712284236-6557-2122300-tbd-asset__ExtRewriteWyJqcGciLCJ3ZWJwIl0_aWxvdmVrZWxseQo_CropResizeWzE0NDAsODEyLDkwLCJ3ZWJwIl0.webp",
+    "details": "https://hanmersprings.co.nz/"
+  },
+  {
+    "title": "Cinema Paradiso",
+    "description": "Iconic cinema in Wanaka showing a mix of mainstream, indie, and foreign films. Sit on comfy couches, a dentist chair or in a VW beetle, order snacks and drinks to your seat, and enjoy the movie in style.",
+    "earlyBookingAdvised": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        169.1357038471765,
+        -44.697204328912406
+      ]
+    },
+    "ratingNegative": {
+      "text": "Don't order local hero You won't be able to taste the salmon",
+        "author": "Pinting Tang"
+    },
+    "ratingPositive": {
+      "text": "Great movies, really comfortable seats, staff were very friendly. And the cookie sandwich was sinfully good!",
+      "author": "YJ Kwang"
+    },
+    "image": "https://api.wanaka.co.nz/assets/ListingImages/Portal/384/CInema-1-audience__FocusFillWzE5MjAsMTA4MCwieSIsMTAwXQ.jpg?_gl=1*zbs38f*_gcl_au*NTMxMDMzMzk5LjE3NTgxMDE4MTU.",
+    "details": "https://www.paradiso.nz/"
   }
 ]
