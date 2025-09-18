@@ -1,5 +1,5 @@
 import type {Point} from "geojson";
-import {type ILngLatLike, Map, Marker, Popup} from 'maplibre-gl';
+import {type ILngLatLike, type LngLatLike, Map, Marker, Popup} from 'maplibre-gl';
 import {randomPoint} from "@turf/random";
 
 type Rating = {
@@ -64,13 +64,38 @@ const createSpecialMarkerForTheLord: () => Marker = () => {
         ]
     })
 
-    return new Marker().setLngLat(randomLocation.features[0].geometry.coordinates as [number, number]).setRotation(45)
+    return new Marker().setLngLat(randomLocation.features[0].geometry.coordinates as [number, number]).setRotation(15)
 }
 
 const handleMarkerRedirect = (marker: Marker) => {
-    marker.getElement().addEventListener('click', () => {
+    const markerElement = marker
+    markerElement.getElement().addEventListener('click', () => {
         window.location.href = 'surprise.html'
     })
+
+
+    const originalPosition = markerElement.getLngLat()
+    setInterval(() => {
+        marker.setLngLat(moveMarkerRandomly(originalPosition.lat, originalPosition.lng))
+    }, 7500);
+}
+
+function moveMarkerRandomly(
+    lat: number,
+    lng: number
+): LngLatLike {
+    const randomNorthKm = Math.random() * 2 - 1;
+    const randomEastKm = Math.random() * 2 - 1;
+    const earthKmPerDegreeLat = 111;
+    const deltaLat = randomNorthKm / earthKmPerDegreeLat;
+
+    const latRad = (lat * Math.PI) / 180;
+    const deltaLng = randomEastKm / (earthKmPerDegreeLat * Math.cos(latRad));
+
+    const newLat = lat + deltaLat;
+    const newLng = lng + deltaLng;
+
+    return [newLng, newLat];
 }
 
 const generatePopupForLocation: (item: Location) => Popup = (item: Location) => {
