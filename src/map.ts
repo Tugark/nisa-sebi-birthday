@@ -1,5 +1,6 @@
 import type {Point} from "geojson";
 import {type ILngLatLike, Map, Marker, Popup} from 'maplibre-gl';
+import {randomPoint} from "@turf/random";
 
 type Rating = {
     text: string;
@@ -37,6 +38,10 @@ const initMap = () => {
                     .setPopup(generatePopupForLocation(item))
                     .addTo(map);
             });
+
+            const specialMarker = createSpecialMarkerForTheLord()
+            specialMarker.addTo(map);
+            handleMarkerRedirect(specialMarker);
         });
     });
 
@@ -48,6 +53,26 @@ const initMap = () => {
         })
     }
 }
+
+const createSpecialMarkerForTheLord: () => Marker = () => {
+    const randomLocation = randomPoint(1, {
+        bbox: [
+            174.98364303454753,
+            -39.84666316476821,
+            176.8434332294279,
+            -38.09410871256688
+        ]
+    })
+
+    return new Marker().setLngLat(randomLocation.features[0].geometry.coordinates as [number, number]).setRotation(45)
+}
+
+const handleMarkerRedirect = (marker: Marker) => {
+    marker.getElement().addEventListener('click', () => {
+        window.location.href = 'surprise.html'
+    })
+}
+
 const generatePopupForLocation: (item: Location) => Popup = (item: Location) => {
     return new Popup({anchor: 'top-right', focusAfterOpen: false, closeButton: false, className: "popup"}).setHTML(`
         <img src="${item.image}" alt="${item.title}" class="img-fluid rounded mx-auto d-block mb-4" style="max-height: 300px;"/>
