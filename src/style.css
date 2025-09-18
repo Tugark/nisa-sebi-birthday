@@ -46,3 +46,10 @@ html, body {
 .mobile-warning {
     max-width: 42em;
 }
+
+.gandalf {
+    position: fixed;
+    bottom: -100px;
+    right: -150px;
+    rotate: -35deg;
+}
