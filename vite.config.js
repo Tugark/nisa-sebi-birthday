@@ -1,5 +1,14 @@
-import { defineConfig } from 'vite'
+import {defineConfig} from 'vite'
+import path from 'path';
 
 export default defineConfig({
-    base: '/'
+    base: '/',
+    build: {
+        rollupOptions: {
+            input: {
+                main: path.resolve(__dirname, 'index.html'),
+                surprise: path.resolve(__dirname, 'surprise.html'),
+            },
+        },
+    }
 })
