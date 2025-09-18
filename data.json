@@ -362,5 +362,27 @@
     },
     "image": "https://api.wanaka.co.nz/assets/ListingImages/Portal/384/CInema-1-audience__FocusFillWzE5MjAsMTA4MCwieSIsMTAwXQ.jpg?_gl=1*zbs38f*_gcl_au*NTMxMDMzMzk5LjE3NTgxMDE4MTU.",
     "details": "https://www.paradiso.nz/"
+  },
+  {
+    "title": "Waiotapu Thermal Wonderland",
+    "description": "Waiotapu Thermal Wonderland is a spectacular showcase of New Zealand’s most colourful and unique geothermal elements sculpted by thousands of years of geothermal activity.",
+    "earlyBookingAdvised": false,
+    "ratingNegative": {
+      "text": "If you have never seen a geyser or pool before, don’t start with this one. Extremely disappointing to pay 45$ to see some mud pools and one green pool. Go see the free park in Roturua. You get a better experience at no charge. #newzealandcashgrab",
+      "author": "Graham Russel"
+    },
+    "ratingPositive": {
+      "text": "If you arrive early you can also see the Lady Know Geyser show at 10.15am. Waiptapu Thermal Wonderland is an awesome experience with so much to see. Apart from the main attraction - Champagne Pool, there are Mud Pools, Craters and Waterfalls. You can spend a good 3 hours here easily.",
+      "author": "William Lin"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        176.36901122208852,
+        -38.35803726240896
+      ]
+    },
+    "image": "https://www.rotoruanz.com/getmedia/367817a8-53dc-4cf0-9ff3-2aafb6896808/Shuttle-Wai-o-Tapu_1",
+    "details": "https://www.waiotapu.co.nz/"
   }
 ]
