@@ -384,5 +384,78 @@
     },
     "image": "https://www.rotoruanz.com/getmedia/367817a8-53dc-4cf0-9ff3-2aafb6896808/Shuttle-Wai-o-Tapu_1",
     "details": "https://www.waiotapu.co.nz/"
+  },
+  {
+    "title": "Tīrau",
+    "description": "You can't miss Tirau – just look for the large corrugated iron buildings constructed to look like a sheep, dog and ram. This town is a little quirky!",
+    "earlyBookingAdvised": false,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        175.75894866817833,
+        -37.99554932986969
+      ]
+    },
+    "image": "https://www.newzealand.com/assets/Tourism-NZ/Other/img-1536895903-2585-29187-p-8E3DF781-1E0B-602A-3ED85EFEB218892E-2544003__aWxvdmVrZWxseQo_CropResizeWzY1MCw0ODgsODAsImpwZyJd.jpg",
+    "details": "https://www.newzealand.com/de/tirau/"
+  },
+  {
+    "title": "Hu Hu Chalet",
+    "description": "The Chalet is a unique, self contained and modern space right in the heart of Waitomo Village. We have a fridge, microwave, toaster and electric, crockery and all basic kitchen utensils. There is also a free view TV . There is one bedroom upstairs with a queen size bed and all linen is supplied.",
+    "earlyBookingAdvised": true,
+    "ratingNegative": {
+      "text": "This location looks nice..but...the location is IN the parking lot OF A restaurant. Come and go from people  with a lot of noise at night through behind motel. The WiFi is bad, or say Not functioning. TV works moderately. So no privacy, noise and no WiFi. \nGreat bed and bathroom!",
+      "author": "Laure"
+    },
+    "ratingPositive": {
+      "text": "Enjoyed our stay at Huhu Chalet! Love the tall ceilings that look out into the night sky! Quaint cafe next to Huhu Cafe where you can have a drink or two and pop right over to rest for the night! ;)",
+      "author": "2bearbear Tom Lim"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        175.11065270874252,
+        -38.26017411180054
+      ]
+    },
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/kExL0Bnwc12M3v27E_eR2A/o.jpg",
+    "details": "https://www.airbnb.com/rooms/7937072"
+  },
+  {
+    "title": "Tongapōrutu",
+    "description": "Tongapōrutu is a settlement in northern Taranaki, in the North Island of New Zealand. It is located on State Highway 3 at the mouth of the Tongapōrutu River, 15 kilometres south of Mōkau. Tongapōrutu is well known in New Zealand for its 'Three Sisters' rock formations and its Māori petroglyphs carved into cave rock walls. However, both the Māori rock carvings and the Three Sisters formations are constantly being eroded by the Tasman Sea.",
+    "earlyBookingAdvised": false,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        174.6581421355785,
+        -38.80586263850061
+      ]
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/57/da/6c/three-sisters.jpg?w=2400&h=1000&s=1",
+    "details": "https://www.tripadvisor.com/Tourism-g7733869-Tongaporutu_Taranaki_Region_North_Island-Vacations.html"
+  },
+  {
+    "title": "Hot Water Beach TOP 10 Holiday Park",
+    "description": "A multi award-winning holiday park, family owned and operated since 2008 and only 700m from the world renown Hot Water Beach. 9 different accommodation options to suit any holiday maker. Year round heated pool complex and a vast array of facilities, events and amenities found nowhere else on the Coromandel.",
+    "earlyBookingAdvised": false,
+    "ratingNegative": {
+      "text": "Worst top 10 I've visited. It was super crowdy and impossible to use the facilites. We were sent to a huge backyard with chemical toilets. Definitely not worth the price.",
+      "author": "Federico Ferri"
+    },
+    "ratingPositive": {
+      "text": "This has got to be up there with one of the best holiday parks we have stayed/ very well organised clean and tidy! Affordable options for larger family’s - play ground was fantastic the whole place was incredible. Pizzas were yummy - coffee great fish and chips were good too! Loved the hot soak area and the plunge into the pool the kids didn’t mind the colder pool it was winter! We stayed in July and took full advantage of their deal and it was great we loved it. Will be back.",
+      "author": "Eliza Waszczak"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        175.81758788355472,
+        -36.88980893648926
+      ]
+    },
+    "image": "https://www.hotwaterbeachtop10.co.nz/library/images/Activities/Beaches/Cathedral-Cove/cathedral-cove-coromandel-matt-crawford-1.jpg",
+    "details": "https://www.hotwaterbeachtop10.co.nz/"
   }
 ]
+
