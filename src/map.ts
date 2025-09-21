@@ -13,6 +13,7 @@ type Location = {
     ratingPositive?: Rating;
     location: Point;
     image: string;
+    attribution: string;
     details: string;
     earlyBookingAdvised?: boolean;
 };
@@ -100,7 +101,10 @@ function moveMarkerRandomly(
 
 const generatePopupForLocation: (item: Location) => Popup = (item: Location) => {
     return new Popup({anchor: 'top-right', focusAfterOpen: false, closeButton: false, className: "popup"}).setHTML(`
-        <img src="${item.image}" alt="${item.title}" class="img-fluid rounded mx-auto d-block mb-4" style="max-height: 300px;"/>
+        <img src="${item.image}" alt="${item.title}" class="img-fluid rounded mx-auto d-block mb-1" style="max-height: 300px;"/>
+        <p class="mb-4">
+          <small>Image by ${item.attribution}</small>
+        </p>
         <h3 class="display-6">${item.title}</h3>
         ${item.earlyBookingAdvised ? '<p class="text-warning-emphasis"><i class="bi bi-exclamation-circle"></i>&nbsp;Early booking adviced!</p>' : ''}
         <p class="lead">${item.description}</p>
