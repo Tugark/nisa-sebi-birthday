@@ -456,6 +456,108 @@
     },
     "image": "https://www.hotwaterbeachtop10.co.nz/library/images/Activities/Beaches/Cathedral-Cove/cathedral-cove-coromandel-matt-crawford-1.jpg",
     "details": "https://www.hotwaterbeachtop10.co.nz/"
+  },
+  {
+    "title": "Tongariro Alpine Crossing",
+    "description": "The Tongariro Alpine Crossing is heralded as the best one-day trek in New Zealand and is regarded as among the top ten single-day treks in the world. The Tongariro Alpine Crossing is located in the Tongariro National Park - New Zealand's oldest national park and a dual UNESCO World Heritage Site.",
+    "earlyBookingAdvised": false,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        175.64866283946154,
+        -39.10064871416779
+      ]
+    },
+    "image": "https://www.tongarirocrossing.org.nz/storage/app/media/Headers/mt-tongariro-mt-ngauruhoe.jpeg",
+    "details": "https://www.tongarirocrossing.org.nz/"
+  },
+  {
+    "title": "Pūtangirua Pinnacles",
+    "description": "The Pūtangirua Pinnacles (also known colloquially simply as The Pinnacles) are a geological formation and one of New Zealand's best examples of badlands erosion. They consist of a large number of earth pillars or hoodoos located at the head of a valley in the Aorangi Ranges, on the North Island of New Zealand, in the Wellington region.",
+    "earlyBookingAdvised": false,
+    "ratingNegative": {
+      "text": "Carpark full of campers and tents. There is a fire ban yet fires are being lit. The trail is seemingly permanently closed yet people are still doing the trail.",
+      "author": "Nathan Smith"
+    },
+    "ratingPositive": {
+      "text": "Great activity just 2 hours from Wellington. Moderate to difficult walk on the stoney riverbed with heavy erosion.Mostly elevation is minimum except for the last bit. Total about 45mins to 1 hour one way.",
+      "author": "Samitha Abeysinghe"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        175.24801610859657,
+        -41.44534468746669
+      ]
+    },
+    "image": "https://www.doc.govt.nz/thumbs/hero/contentassets/1775aa7411f746499483f55c8283c659/view-platform-putangirua-pinnacles-1920.jpg",
+    "details": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/wairarapa/places/putangirua-pinnacles-scenic-reserve/"
+  },
+  {
+    "title": "Wētā Cave",
+    "description": "The Wētā Cave retail store, guarded by our iconic Cave Trolls, is a must-see for film buffs and lovers of cool stuff. Buy authentic Wētā Workshop designed collectibles, prop replicas, books, jewellery, art prints, gifts, apparel, movie memorabilia and more. Make sure you take a piece of the magic home with you! The Wētā Cave also includes our Wētā Workshop mini museum where you can discover some of the historical props and costumes we’ve made for blockbuster movies.",
+    "earlyBookingAdvised": false,
+    "ratingNegative": {
+      "text": "Very disappointed. The Cave is just a gift shop and the tour costs $20 to look at props and to get an overview on what they do there. Not worth it if you are a fan of any specific film they have made and if you're not looking for a boring 30 min tour. Could have seen/learned it all from behind the scenes films.",
+      "author": "Michaela Svagera"
+    },
+    "ratingPositive": {
+      "text": "Incredible experience, and the staff are all so full of life and brilliance! We walked out feeling inspired to continue our personal creative pursuits. Every time I watch a film now I have a new found respect for the time and work that goes into Weta creations. You won't believe some of the stories you'll learn! Also visited a local bakery before our tour for the yummiest pies and hot chocolate.",
+      "author": "JD"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        174.8242385202391,
+        -41.3062004741296
+      ]
+    },
+    "image": "https://www.campervannewzealand.co.nz/assets/img/blog/440/weta-workshop-new-zealand-info.jpg",
+    "details": "https://www.wetaworkshop.com/tours/weta-cave"
+  },
+  {
+    "title": "Te Waikoropupu Springs",
+    "description": "Te Waikoropupū Springs are the largest freshwater springs in New Zealand, the largest cold water springs in the Southern Hemisphere and contain some of the clearest water ever measured.",
+    "earlyBookingAdvised": false,
+    "ratingNegative": {
+      "text": "Very disappointing on a wet day. Rain disturbed the water surface to such an extent that NO spring was visible, and the purported \"water clarity\" was left to the imagination.",
+      "author": "Denis Rainforth"
+    },
+    "ratingPositive": {
+      "text": "Very beautiful, even if in the rain. We did this loop jn about 20 minutes given the rain. Would have liked it to be longer. Such a beautiful, one of a kind and informative sacred spot to visit.",
+      "author": "It's Jess!"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        172.77046440859658,
+        -40.84793896826665
+      ]
+    },
+    "image": "https://www.doc.govt.nz/thumbs/hero/contentassets/1b24978cdd19497ca5e0b907e60b9d3f/waikoropupu-springs-1920.jpg",
+    "details": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/nelson-tasman/places/takaka-area/things-to-do/tracks/te-waikoropupu-springs-walk/"
+  },
+  {
+    "title": "Wharariki Beach",
+    "description": "Wharariki Beach is a beach on the Tasman Sea, west of Cape Farewell, the northernmost point of the South Island of New Zealand. The beach is popular for its colony of fur seal pups; during low tide, people have access to the pools where pups play in front of the easternmost of the Archway Islands.",
+    "earlyBookingAdvised": false,
+    "ratingNegative": {
+      "text": "Doesn't have sand",
+      "author": "AuroraFlight"
+    },
+    "ratingPositive": {
+      "text": "Here because the Windows background photo was taken here. The beach itself is large and beautiful in itself. The tide fluctuates greatly, highly recommended to visit at low tide to visit the caves safely. The fluctuating tide also causes stunning sand patterns on the beach.",
+      "author": "Tc203"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        172.67899362526174,
+        -40.502047598688755
+      ]
+    },
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/e2/13/26/wharariki-beach.jpg?w=1400&h=800&s=1",
+    "details": "https://www.tripadvisor.com/Attraction_Review-g13156755-d23172116-Reviews-Wharariki_Beach-Puponga_Golden_Bay_Nelson_Tasman_Region_South_Island.html"
   }
 ]
 
