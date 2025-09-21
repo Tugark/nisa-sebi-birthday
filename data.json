@@ -556,8 +556,32 @@
         -40.502047598688755
       ]
     },
-    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/e2/13/26/wharariki-beach.jpg?w=1400&h=800&s=1",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Wharariki_Beach_area_%285796049120%29.jpg",
+    "attribution": "<a href=\"https://commons.wikimedia.org/wiki/File:Wharariki_Beach_area_(5796049120).jpg\">Murray Foubister</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>, via Wikimedia Commons",
     "details": "https://www.tripadvisor.com/Attraction_Review-g13156755-d23172116-Reviews-Wharariki_Beach-Puponga_Golden_Bay_Nelson_Tasman_Region_South_Island.html"
+  },
+  {
+    "title": "Farewell Spit",
+    "description": "Farewell Spit stretches 34km long, making it one of the longest natural sandspits in the world. A wetland of international importance, it has been a bird sanctuary since the 1930’s and provides a home for over 90 bird species. Bar tailed godwits, knots, curlews, whimbrels and turnstones fly around 12,000 kilometres every northern hemisphere autumn to spend the summer here in the south. The spit also has a gannet colony.",
+    "earlyBookingAdvised": false,
+    "ratingNegative": {
+      "text": "Awesome piece of NZ well worth a visit by anyone who loves history, wildlife and unique landscapes. Unfortunately you can only walk about 5kms into the spit as it is protected reserve. You have to pay and be a part of an authorised tour to see the whole spit. On this occasion I did the public walk. Beware of quick sand between the coasts! I sank to my knees stepping in a puddle of sand. Will definitely do the paid tour next time. Lots of wildlife. Take some water.",
+      "author": "M N Scott"
+    },
+    "ratingPositive": {
+      "text": "It’s a very interesting place, the desert part is a very different then the surroundings areas. you wouldn’t believe that you’re in New zealand. it’s a very long walk so you’ll definitely need some food and water with you. you cannot go to the whole spit part because it’s protected, but you can take tours if you want to see the whole spit. it can be very hot around December and January (got sunburned) will definitely go there again by taking tours.",
+      "author": "harjeet Nz"
+    },
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        172.8662375025268,
+        -40.515980612898346
+      ]
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Farewell_Spit_from_Pillar_Point_-_panoramio.jpg",
+    "attribution": "<a href=\"https://commons.wikimedia.org/wiki/File:Farewell_Spit_from_Pillar_Point_-_panoramio.jpg\">nut.in.a.hut</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "details": "https://www.newzealand.com/int/farewell-spit/"
   }
 ]
 
