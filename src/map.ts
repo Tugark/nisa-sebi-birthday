@@ -136,8 +136,8 @@ const getRatingBlock = (ratingPositive: Rating, ratingNegative: Rating) => {
 }
 
 const getAttributionBlock = (attribution: string) => {
-    return ` <p class="mb-4">
-          <small>Image by ${attribution}</small>
+    return ` <p class="mb-1">
+          <p class="small text-center">Image by ${attribution}</p>
         </p>`
 }
 

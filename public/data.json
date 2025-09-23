@@ -18,7 +18,8 @@
         -40.85623073542328
       ]
     },
-    "image": "https://nz.rs-cdn.com/images/nwsz8-gt67l/feature/9d432716a905fed5a37d2d8c5d19bdad__3688/hcrop2292x1576@stretch.png.webp",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Kapiti_Island_%2851331562058%29.jpg",
+    "attribution": "<a href=\"https://commons.wikimedia.org/wiki/File:Kapiti_Island_(51331562058).jpg\">Geoff McKay from Palmerston North, New Zealand</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>, via Wikimedia Commons",
     "details": "https://www.kapitiisland.com/"
   },
   {
@@ -40,7 +41,8 @@
         -45.77698853646581
       ]
     },
-    "image": "https://images.squarespace-cdn.com/content/v1/6181dc62d2b78c05b573ba09/d485829b-93f0-4fed-bab6-453a09346cd2/ATTRACTION_BluePenguinsPukekura_071_DunedinNZ.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Eudyptula_minor_family_exiting_burrow.jpg",
+    "attribution": "<a href=\"https://commons.wikimedia.org/wiki/File:Eudyptula_minor_family_exiting_burrow.jpg\">JJ Harrison (https://www.jjharrison.com.au/)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
     "details": "https://www.bluepenguins.co.nz/"
   },
   {
@@ -129,7 +131,8 @@
         -38.156448819535015
       ]
     },
-    "image": "https://www.treewalk.co.nz/wp-content/uploads/2019/06/nightlights-redwoods.jpg",
+    "image": "images/redwood.jpg",
+    "attribution": "Lukasz Merzenich",
     "details": "https://www.treewalk.co.nz/the-walk/redwoods-nightlights/"
   },
   {
@@ -143,7 +146,8 @@
         -44.83865769395364
       ]
     },
-    "image": "https://assets.theheadwatersecolodge.com/images/scenic/1-glenorchy_1920x1080-(1).jpg",
+    "attribution": "<a href=\"https://commons.wikimedia.org/wiki/File:Glenorchy_at_the_Head_of_Lake_Wakatipu.jpg\">Vladka Kennett</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Glenorchy_at_the_Head_of_Lake_Wakatipu.jpg",
     "details": "https://www.newzealand.com/int/glenorchy/"
   },
   {
@@ -165,7 +169,8 @@
       "text": "The ride was about and hour and a half threw amazing scenery, it was breathtaking (also you ride by the Misty Mountains from the LOTR). The horses were awesome the whole ride, the trail was smooth and flawless.",
       "author": "Kayla"
     },
-    "image": "https://www.everythingnewzealand.com/resources/cache/700x349/1/items~large/High-country-horses-rees-river-3.jpg",
+    "image": "images/horses.JPG",
+    "attribution": "Debby the Axe-Thrower (taken on a horseback)",
     "details": "https://highcountryhorses.nz/"
   },
   {
@@ -180,7 +185,8 @@
       "text": "If I cOuLd, I wOuLd LiVe HeRe FoReVeR. LoTr Is ThE bEsT ❤❤❤❤",
       "author": "Lord W."
     },
-    "image": "https://www.newzealand.com/assets/externally-managed-assets/tbd-assets/tbd-folder-4936190/img-1713486563-9589-615421-tbd-asset__ExtRewriteWyJqcGciLCJ3ZWJwIl0_aWxvdmVrZWxseQo_CropResizeWzE0NDAsODEyLDkwLCJ3ZWJwIl0.webp",
+    "image": "images/hobbiton.jpg",
+    "attribution": "Debby the Axe-Thrower",
     "location": {
       "type": "Point",
       "coordinates": [
@@ -209,7 +215,8 @@
       "text": "We did the overnight tour. Sean and Juanita were incredible. You are in for a treat if you have them for your crew. The visuals were incredible and the food was absolutely delicious (shout out again to Juanita). We swam, kayaked and Sean even got us under a small waterfall.",
       "author": "Wes Noonan"
     },
-    "image": "https://cdn.luxurytravelmag.com.au/wp-content/uploads/2024/07/30192454/Doubtful-Sounds-NZ-CANTO_shutterstock_1100044448.jpg",
+    "image": "images/doubtful.JPG",
+    "attribution": "Debby the Axe-Thrower",
     "details": "https://www.realnz.com/en/destinations/doubtful-sound/"
   },
   {
@@ -231,7 +238,8 @@
       "text": "This was my only day to see the mountain so with the rain coming in I couldn't see the whole mountain but I did catch the sunrise which was beautiful! I started my hike at 5am and got to the reflective tarn by 6:50am. You are walking on built steps pretty much the entire time.",
       "author": "Caleb Porco"
     },
-    "image": "https://images.squarespace-cdn.com/content/v1/5fc324c52cf09257bd7a8d39/1616201111183-MAS5OFZXA5D92DY79IZ6/taranaki-tarn.jpg?format=2500w",
+    "image": "images/pouakai.jpg",
+    "attribution": "Lukasz Merzenich",
     "details": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/taranaki/places/te-papa-kura-o-taranaki/things-to-do/tracks/mangorei-track/"
   },
   {
@@ -253,7 +261,8 @@
       "text": "I bet you’ve never seen anything like this before. Had the pleasure of giving tours to black reef, flat rock, and the plateau. Never got tired of the views. Just gotta go in person to see these guys. But really look at the sea of birds. They all got their own thing going on and it’s nice to sit and appreciate what’s happening around you. Like how did I get here? Life really is unpredictable and full of surprises",
       "author": "small bsian"
     },
-    "image": "https://gannetsafaris.co.nz/wp-content/uploads/2022/06/Cape-Kidnappers-Gannets-Hawkes-Bay-1.jpg",
+    "image": "images/gannet.jpg",
+    "attribution": "Debby the Axe-Thrower",
     "details": "https://gannetsafaris.co.nz/"
   },
   {
@@ -267,7 +276,8 @@
         -39.4928486140731
       ]
     },
-    "image": "https://nzpocketguide.com/wp-content/uploads/2020/06/Napier-town-centre-Feature-Mandatory-Credit-NZPocketGuide.com_.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Napier_and_bay.jpg",
+    "attribution": "<a href=\"https://commons.wikimedia.org/wiki/File:Napier_and_bay.jpg\">Robyn Gallagher from Auckland, New Zealand</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>, via Wikimedia Commons",
     "details": "https://www.newzealand.com/int/napier/"
   },
   {
@@ -281,7 +291,8 @@
         -39.657985922998904
       ]
     },
-    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523487885.jpg?k=205bd4a204203549cea436ba7978b019e71083c5154cbb66d8e3658d7c71d8c5&o=",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/HB_Vineyard_autumn.JPG",
+    "attribution": "<a href=\"https://commons.wikimedia.org/wiki/File:HB_Vineyard_autumn.JPG\">HuttyMcphoo</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.5\">CC BY-SA 2.5</a>, via Wikimedia Commons",
     "details": "https://www.newzealand.com/int/feature/wineries-in-hawkes-bay/"
   },
   {
@@ -303,7 +314,8 @@
       "text": "Love this place, great for adults and kids.. It's a must do.. So much fun, lots history",
       "author": "Jo Hempseed"
     },
-    "image": "https://www.newzealand.com/assets/externally-managed-assets/tbd-assets/tbd-folder-6369043/img-1713591872-5435-1030366-tbd-asset__ExtRewriteWyJqcGciLCJ3ZWJwIl0_aWxvdmVrZWxseQo_CropResizeWzE0NDAsODEyLDkwLCJ3ZWJwIl0.webp",
+    "image": "images/shanty.JPG",
+    "attribution": "Debby the Axe-Thrower",
     "details": "https://www.shantytown.co.nz/"
   },
   {
@@ -317,7 +329,8 @@
         -39.419966766013815
       ]
     },
-    "image": "https://www.stuff.co.nz/media/images/9Tzi8ywRz924XE3uHaD6DfGZQfjEdZd7oKlsiR53VLHvSZExpMzuRmKdwHbkL9PkJeqj2hUGfQh3l3yXdLMMxdAMVoyuzjNqwEWV%2FJgX6M1+U9pbz2xnSkjP9us3wtv+9520zPRdqi2PSSLLScL9kOH3Qp8JgLOZXylsIUNx4g%2FQ%2FVm+LRVCQvS3Lm82X4BM?resolution=1240x700",
+    "image": "images/carrot.jpg",
+    "attribution": "Debby the Axe-Thrower",
     "details": "https://www.visitruapehu.com/see-do/family-fun/carrotland-adventure-park"
   },
   {
@@ -339,7 +352,8 @@
       "text": "Fabulous \uD83D\uDC4C …",
       "author": "Frances Roy"
     },
-    "image": "https://www.newzealand.com/assets/externally-managed-assets/tbd-assets/tbd-folder-10078845/img-1712284236-6557-2122300-tbd-asset__ExtRewriteWyJqcGciLCJ3ZWJwIl0_aWxvdmVrZWxseQo_CropResizeWzE0NDAsODEyLDkwLCJ3ZWJwIl0.webp",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Thermalbad_Hanmer_Springs.jpg",
+    "attribution": "<a href=\"https://commons.wikimedia.org/wiki/File:Thermalbad_Hanmer_Springs.jpg\">Kiwi05</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
     "details": "https://hanmersprings.co.nz/"
   },
   {
@@ -361,7 +375,8 @@
       "text": "Great movies, really comfortable seats, staff were very friendly. And the cookie sandwich was sinfully good!",
       "author": "YJ Kwang"
     },
-    "image": "https://api.wanaka.co.nz/assets/ListingImages/Portal/384/CInema-1-audience__FocusFillWzE5MjAsMTA4MCwieSIsMTAwXQ.jpg?_gl=1*zbs38f*_gcl_au*NTMxMDMzMzk5LjE3NTgxMDE4MTU.",
+    "image": "https://cdn.vwassets.com/paradiso.nz/1744685099883_1739039550238_ParadisoDesktopCarousel.jpg",
+    "attribution": "<a href='https://www.paradiso.nz/' target='_blank'>Cinema Paradiso</a>",
     "details": "https://www.paradiso.nz/"
   },
   {
@@ -464,8 +479,8 @@
   },
   {
     "title": "Tongariro Alpine Crossing",
-    "description": "The Tongariro Alpine Crossing is heralded as the best one-day trek in New Zealand and is regarded as among the top ten single-day treks in the world. The Tongariro Alpine Crossing is located in the Tongariro National Park - New Zealand's oldest national park and a dual UNESCO World Heritage Site.",
-    "earlyBookingAdvised": false,
+    "description": "The Tongariro Alpine Crossing is heralded as the best one-day trek in New Zealand and is regarded as among the top ten single-day treks in the world. The Tongariro Alpine Crossing is located in the Tongariro National Park - New Zealand's oldest national park and a dual UNESCO World Heritage Site. <b>Important:</b> This track now requires prebooking a slot and a shuttle transport which has to be pre-arranged; and it is even more crowded.",
+    "earlyBookingAdvised": true,
     "location": {
       "type": "Point",
       "coordinates": [
@@ -591,6 +606,189 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Farewell_Spit_from_Pillar_Point_-_panoramio.jpg",
     "attribution": "<a href=\"https://commons.wikimedia.org/wiki/File:Farewell_Spit_from_Pillar_Point_-_panoramio.jpg\">nut.in.a.hut</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
     "details": "https://www.newzealand.com/int/farewell-spit/"
+  },
+  {
+    "title": "Tama Lakes",
+    "description": "Since the Tongariro Crossing is extremely (!) crowded, this walk is a great alternative, offering even better views of Mount Doom, while being easily accessible and much less crowded. To break the fourth wall &mdash; I did both and I'd rather do this walk again.",
+    "earlyBookingAdvised": false,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        175.60593821347078,
+        -39.19914881415374
+      ]
+    },
+    "image": "images/tama.jpg",
+    "attribution": "Debby the Axe-Thrower",
+    "details": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/central-north-island/places/tongariro-national-park/things-to-do/tracks/tama-lakes-track/"
+  },
+  {
+    "title": "Cape Reinga",
+    "description": "Northernmost tip of New Zealand, where the Tasman Sea meets the Pacific Ocean. A culturally significant site for the Māori people, who believe it is the point where spirits depart for the afterlife. The lighthouse and surrounding area offer stunning views and a sense of tranquility. However, the more amazing walks branch off to the west or east, and offer outstanding views of the dramatic coast.",
+    "earlyBookingAdvised": false,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        172.68044743717317,
+        -34.425218190888565
+      ]
+    },
+    "image": "images/reinga.jpg",
+    "attribution": "Lukasz Merzenich",
+    "details": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/northland/places/te-paki-recreation-reserve/things-to-do/tracks/cape-reinga-lighthouse-walk/"
+  },
+  {
+    "title": "Te Paki sand dunes",
+    "description": "Giant sanddunes that do not really fit into the surrounding landscapes. They can be explored by foot, or you can go sandboarding on them.",
+    "earlyBookingAdvised": false,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        172.77357367232545,
+        -34.52386188270345
+      ]
+    },
+    "image": "images/sanddunes.jpg",
+    "attribution": "Debby the Axe-Thrower | Model: Lukasz Merzenich",
+    "details": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/northland/places/te-paki-recreation-reserve/te-paki-sand-dunes/"
+  },
+  {
+    "title": "Mangawhai Heads Walkway",
+    "description": "Scenic walkway along the cliffs, one of North Island's most scenic short walkways. If the tides permit, you can return via the beach.",
+    "earlyBookingAdvised": false,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        174.5915296815437,
+        -36.06791414296151
+      ]
+    },
+    "image": "images/wheads.jpg",
+    "attribution": "Lukasz Merzenich",
+    "details": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/northland/places/waipu-area/things-to-do/mangawhai-walkway/"
+  },
+  {
+    "title": "Clay Cliffs Omarama",
+    "description": "A lesser known, hidden gem &mdash; impressive clay pinnacles with narrow ravines.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        169.87204646960848,
+        -44.4885975832531
+      ]
+    },
+    "image": "images/clay.JPG",
+    "attribution": "Debby the Axe-Thrower",
+    "details": "https://www.newzealand.com/int/feature/omarama-clay-cliffs/"
+  },
+  {
+    "title": "Mount Cook Village",
+    "description": "Mount Cook Village is a small settlement in the South Island of New Zealand, located within the Aoraki/Mount Cook National Park. It serves as a base for visitors exploring the surrounding alpine environment, including Aoraki/Mount Cook, the highest peak in New Zealand. The village offers various accommodations, dining options, and outdoor activities such as hiking, mountaineering, and scenic flights. Apart from the obligatory <a href='https://www.doc.govt.nz/hooker-valley-track' target='_blank'>Hooker Valley Track</a> (note the closures!), there are other highly recommended walks, such as the climb up to the <a href='https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/aoraki-mount-cook-national-park/things-to-do/tracks/mueller-hut-route/' target='_blank'>Mueller Hut</a> or the <a href='https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/aoraki-mount-cook-national-park/things-to-do/tracks/tasman-lake-and-river-track/' target='_blank'>Tasman Lake and River Track</a>.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        170.09985599551854,
+        -43.73320065817614
+        ]
+    },
+    "image": "images/cook.JPG",
+    "attribution": "Debby the Axe-Thrower",
+    "details": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/aoraki-mount-cook-national-park/"
+  },
+  {
+    "title": "Crown Range Road",
+    "description": "The Crown Range Road is the highest main road in New Zealand, reaching an elevation of 1,121 meters at the Crown Saddle. The road connects the towns of Queenstown and Wanaka, offering stunning views of the surrounding mountains and valleys. The road is a popular route for tourists and locals alike, with several lookout points and picnic areas along the way. However, the road can be challenging to drive, with steep inclines and sharp turns, so caution is advised.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        168.94033107642795,
+        -44.99209770175208
+      ]
+    },
+    "image": "images/queenstownroad.JPG",
+    "attribution": "Debby the Axe-Thrower",
+    "ratingPositive": {
+      "text": "Crown range summit has a nice view due to its high altitude. Very nice view.",
+      "author": "FF2030"
+    },
+    "ratingNegative": {
+      "text": "the waiter doesn't speak English, we were served the wrong wines, and the oysters aren't very good.",
+      "author": "Lucien Fonteneau"
+    },
+    "details": "https://www.newzealand.com/int/feature/the-crown-range/"
+  },
+  {
+    "title": "Slope Point",
+    "description": "Slope Point is the southernmost point of the South Island of New Zealand. It is located in the Catlins region, known for its rugged coastline, dense forests, and diverse wildlife. The area around Slope Point is characterized by rolling hills, farmland, and native bush. A short walk from the car park leads to a viewpoint marked by a signpost indicating the distances to various locations around the world. The windswept landscape and panoramic views make Slope Point a popular destination for visitors seeking to experience the remote beauty of New Zealand's southernmost tip. But beware &mdash; it is very windy here!",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        169.00128841973552,
+        -46.672438400048414
+      ]
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Slope_Point_%284%29.jpg",
+    "attribution": "<a href=\"https://commons.wikimedia.org/wiki/File:Slope_Point_(4).jpg\">Remi Jouan</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+    "details": "https://www.catlins.org.nz/plan/captivating-activities/scenic-highlights/slope-point/"
+  },
+  {
+    "title": "Roaring Bay Penguin Colony",
+    "description": "The only mainland yellow-eyed penguin colony in the world, located in a protected reserve. Visitors can observe these rare and endangered birds in their natural habitat from a viewing platform, without disturbing them. The colony is home to several breeding pairs of yellow-eyed penguins, as well as other seabirds such as gannets and shags. The area around Roaring Bay is also known for its scenic coastal views and walking trails.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        169.80376550752217,
+        -46.44539584195833
+      ]
+    },
+    "image": "images/roaring.JPG",
+    "attribution": "Debby the Axe-Thrower",
+    "details": "https://southlandnz.com/listing/nugget-point-tokata-%26-roaring-bay/643/",
+    "ratingPositive": {
+      "text": "At 6:20 pm on August 23, 2025, I saw a yellow-eyed penguin coming ashore from the sea and returning home!\n",
+      "author": "pound chen"
+    },
+    "ratingNegative": {
+      "text": "We haven't seen any. We read that only one pair of penguins living there.\n",
+      "author": "Bernadett Halasi"
+    }
+  },
+  {
+    "title": "Bluff",
+    "description": "Bluff is a town located at the southern tip of New Zealand's South Island. It is known for its rich maritime history, stunning coastal scenery, and as the gateway to Stewart Island. The town is famous for its oysters, which are considered some of the best in the world. Visitors can explore the Bluff Maritime Museum, take a scenic drive along the Bluff Hill Lookout, or enjoy fresh seafood at local restaurants.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        168.3384936594286,
+        -46.614441371435944
+      ]
+    },
+    "image": "images/bluff.JPG",
+    "attribution": "Debby the Axe-Thrower",
+    "details": "https://www.newzealand.com/int/bluff/"
+  },
+  {
+    "title": "Steampunk HQ",
+    "description": "Steampunk HQ is an interactive art gallery and museum located in Oamaru, New Zealand. The gallery features a collection of steampunk-inspired art and sculptures, as well as interactive exhibits that allow visitors to experience the steampunk aesthetic. The gallery is housed in a former Victorian-era building, which has been transformed into a steampunk wonderland.",
+    "earlyBookingAdvised": false,
+    "location":{
+        "type": "Point",
+        "coordinates": [
+          170.9704396351007,
+          -45.10215601655977
+        ]
+    },
+    "image": "images/steampunk.JPG",
+    "attribution": "Debby the Axe-Thrower",
+    "details": "https://www.steampunkoamaru.co.nz/",
+    "ratingPositive": {
+      "text": "This was such a highlight of my road trip up the east coast. I decided to randomly stop and check it out and it was such a creative and fun place to visit. So many interactive and unique exhibits and well worth the visit. Very highly recommend.",
+      "author": "Katie M"
+    },
+    "ratingNegative": {
+      "text": "Staff did not greet us when we walked in and had to excuse ourselves to get service. Staff sniggered when we paid and went to walk into the museum. Unfortunately would not go back due to the terrible customer service.",
+      "author": "Melissa mc"
+    }
   }
 ]
 
