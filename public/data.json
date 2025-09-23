@@ -64,7 +64,7 @@
         -44.01295879330667
       ]
     },
-    "image": "https://res.klook.com/image/upload/w_1265,h_785,c_fill,q_85/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/rwcmgzfxg9sdomfuzi7o.webp",
+    "image": "images/stars.jpg",
     "details": "https://chameleonstargazing.com/signature-tour-english/"
   },
   {
@@ -86,7 +86,8 @@
         -38.175716789192904
       ]
     },
-    "image": "https://dynamic-media.tacdn.com/media/photo-o/2f/2e/0c/15/caption.jpg?w=1400&h=1000&s=1",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Redwoods%2C_Rotorua%2C_New_Zealand_%28Unsplash%29.jpg",
+    "attributiom": "<a href=\"https://commons.wikimedia.org/wiki/File:Redwoods,_Rotorua,_New_Zealand_(Unsplash).jpg\">Aaron Birch aaronbirch</a>, CC0, via Wikimedia Commons",
     "details": "https://secretspot.nz/"
   },
   {
@@ -169,7 +170,7 @@
       "text": "The ride was about and hour and a half threw amazing scenery, it was breathtaking (also you ride by the Misty Mountains from the LOTR). The horses were awesome the whole ride, the trail was smooth and flawless.",
       "author": "Kayla"
     },
-    "image": "images/horses.JPG",
+    "image": "images/horses.jpg",
     "attribution": "Debby the Axe-Thrower (taken on a horseback)",
     "details": "https://highcountryhorses.nz/"
   },
@@ -436,7 +437,7 @@
         -38.26017411180054
       ]
     },
-    "image": "https://uc613e7cce12043ff67c29e03d21.dl.dropboxusercontent.com/cd/0/inline/Cx2v4fp-c3CUJYvSSENZCpb_4xTOVcaofsFBMmZCTq9Px501EQ6jT33gmLLwWRSsNxY1Yf_OFKAXy5Zh7Cmi59VUTth5z3VCyTV87eaZ_E1_ipKntgAjxJb-gMRqdHkeCcq-W1-zrNwc-JqpFI2EMB3T/file#",
+    "image": "images/huhu_chalet.jpg",
     "details": "https://www.airbnb.com/rooms/7937072"
   },
   {
@@ -789,6 +790,20 @@
       "text": "Staff did not greet us when we walked in and had to excuse ourselves to get service. Staff sniggered when we paid and went to walk into the museum. Unfortunately would not go back due to the terrible customer service.",
       "author": "Melissa mc"
     }
+  },
+  {
+    "title": "Moeraki Boulders Beach",
+    "description": "Picturesque beach featuring sphere-shaped boulders on the sand, plus a nearby cafe & sunrise views.",
+    "earlyBookingAdvised": false,
+    "location":{
+      "type": "Point",
+      "coordinates": [
+        170.8261518132447,
+        -45.34469444832925
+      ]
+    },
+    "image": "images/moeraki_boulders.jpg",
+    "details": "https://www.newzealand.com/int/feature/moeraki-boulders/"
   }
 ]
 
