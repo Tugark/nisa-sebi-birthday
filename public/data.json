@@ -370,7 +370,7 @@
     },
     "ratingNegative": {
       "text": "Don't order local hero You won't be able to taste the salmon",
-        "author": "Pinting Tang"
+      "author": "Pinting Tang"
     },
     "ratingPositive": {
       "text": "Great movies, really comfortable seats, staff were very friendly. And the cookie sandwich was sinfully good!",
@@ -690,7 +690,7 @@
       "coordinates": [
         170.09985599551854,
         -43.73320065817614
-        ]
+      ]
     },
     "image": "images/cook.JPG",
     "attribution": "Debby the Axe-Thrower",
@@ -772,12 +772,12 @@
     "title": "Steampunk HQ",
     "description": "Steampunk HQ is an interactive art gallery and museum located in Oamaru, New Zealand. The gallery features a collection of steampunk-inspired art and sculptures, as well as interactive exhibits that allow visitors to experience the steampunk aesthetic. The gallery is housed in a former Victorian-era building, which has been transformed into a steampunk wonderland.",
     "earlyBookingAdvised": false,
-    "location":{
-        "type": "Point",
-        "coordinates": [
-          170.9704396351007,
-          -45.10215601655977
-        ]
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        170.9704396351007,
+        -45.10215601655977
+      ]
     },
     "image": "images/steampunk.JPG",
     "attribution": "Debby the Axe-Thrower",
@@ -795,7 +795,7 @@
     "title": "Moeraki Boulders Beach",
     "description": "Picturesque beach featuring sphere-shaped boulders on the sand, plus a nearby cafe & sunrise views.",
     "earlyBookingAdvised": false,
-    "location":{
+    "location": {
       "type": "Point",
       "coordinates": [
         170.8261518132447,
@@ -804,6 +804,144 @@
     },
     "image": "images/moeraki_boulders.jpg",
     "details": "https://www.newzealand.com/int/feature/moeraki-boulders/"
+  },
+  {
+    "title": "Mount Sunday / Edoras",
+    "description": "Scenic mountain with hiking trails, rock formations, and panoramic views, known for its role as Edoras in the Lord of the Rings films. Accesible with tours from Christchurch, or via a bumpy (but easily drivable) road by car.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        170.89346381026687,
+        -43.54839123265812
+      ]
+    },
+    "image": "images/mount_sunday.jpg",
+    "attribution": "Debby the Axe-Thrower",
+    "details": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/hakatere-conservation-park/things-to-do/tracks/mount-sunday-track/"
+  },
+  {
+    "title": "Castle Hill",
+    "description": "Limestone rock formations, popular for bouldering and rock climbing, with walking trails and picnic areas.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        171.71625440036962,
+        -43.229139550495034
+      ]
+    },
+    "image": "images/castle_hill.JPG",
+    "attribution": "Debby the Axe-Thrower",
+    "details": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/kura-tawhiti-castle-hill/",
+    "ratingNegative": {
+      "text": "don't go it sux",
+      "author": "Barnaby Bruce"
+    },
+    "ratingPositive": {
+      "text": "If you have the time, is worth stopping for some photos. Nice landscape with huge rocks of different shape. Is worth the drive all the way from Christchurch.",
+      "author": "Boo Boo"
+    }
+  },
+  {
+    "title": "Arthurs Pass",
+    "description": "Picturesque mountain village in the Southern Alps, known for hiking trails, wildlife, and stunning alpine scenery. Easiest access to see Kea's taking apart cars.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        171.56169729539425,
+        -42.940514157281214
+      ]
+    },
+    "image": "images/arthur.JPG",
+    "attribution": "Debby the Axe-Thrower",
+    "details": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/arthurs-pass-national-park/"
+  },
+  {
+    "title": "Queenstown",
+    "description": "Adventure capital of New Zealand, offering a range of outdoor activities such as bungee jumping, skydiving, jet boating, and skiing. The town is also known for its stunning scenery, with the surrounding mountains and Lake Wakatipu providing a picturesque backdrop. Visitors can explore the town's vibrant nightlife, enjoy local cuisine at restaurants and cafes, or take a scenic cruise on the lake. Queenstown is a popular destination for tourists seeking both adventure and relaxation. It is also known for its Fergburger, although that has gotten quite some competition in recent years.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        168.66134147515493,
+        -45.03085352368613
+      ]
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Queenstown_from_Bob%27s_Peak.jpg",
+    "attribution": "<a href=\"https://commons.wikimedia.org/wiki/File:Queenstown_from_Bob%27s_Peak.jpg\">Lawrence Murray from Perth, Australia</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>, via Wikimedia Commons",
+    "details": "https://www.queenstownnz.co.nz/"
+  },
+  {
+    "title": "Pub on Wharf",
+    "description": "The Pub on Wharf is a popular waterfront restaurant and bar located in the heart of Queenstown, New Zealand. Known for its stunning views of Lake Wakatipu and the surrounding mountains, the pub offers a relaxed atmosphere where visitors can enjoy a variety of food and drinks. The menu features a range of options, including classic pub fare, seafood dishes, and local specialties. The Pub on Wharf is also known for its extensive selection of craft beers and wines, making it a favorite spot for both locals and tourists looking to unwind after a day of adventure in Queenstown. If you don't want to wait in line for the (overrated) Fergburger, this is a viable option.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        168.65786954526723,
+        -45.03307742111937
+      ]
+    },
+    "ratingPositive": {
+      "text": "I may or may not have stayed here several times during my 2013 visit, including New Year's Eve. I most certainly have not drunk too much with an Australian couple.",
+      "author": "Lukasz Merzenich"
+    },
+    "ratingNegative": {
+      "text": "Had one Golden Lager pint here. Cost about $15 and it wasn’t close to being cold. ! Total waste of money, can’t even serve a cold beer in a cold climate.",
+      "author": "Harry"
+    },
+    "image": "images/pubwharf.jpg",
+    "attribution": "Lukasz Merzenich",
+    "details": "https://www.pubonwharf.co.nz/"
+  },
+  {
+    "title": "Baldwin Street",
+    "description": "The steepest residential street in the world, located in Dunedin, New Zealand. The street has a gradient of 35%, making it a popular tourist attraction and a challenge for runners and cyclists.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        170.53429979022806,
+        -45.8492147214608
+      ]
+    },
+    "image": "images/baldwin.JPG",
+    "attribution": "Debby the Axe-Thrower",
+    "details": "https://www.dunedinnz.com/insiders/baldwin-street"
+  },
+  {
+    "title": "Akaroa",
+    "description": "A charming French-inspired town located on the Banks Peninsula, known for its beautiful harbor, historic architecture, and wildlife encounters. Visitors can explore the town's quaint streets, enjoy local cuisine at cafes and restaurants, and take boat tours to see dolphins, penguins, and seals.",
+    "earlyBookingAdvised": false,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        172.9662336345961,
+        -43.80867861407369
+      ]
+    },
+    "image": "images/akaroa.jpg",
+    "attribution": "Lukasz Merzenich",
+    "details": "https://www.newzealand.com/int/akaroa/"
+  },
+  {
+    "title": "Whale Watch Kaikōura",
+    "description": "Whale Watch Kaikōura offers boat tours to see sperm whales, dolphins, and other marine life in their natural habitat. The tours are led by experienced guides who provide information about the animals and their behavior. <b>Imporant:</b> There is a very high possibility of getting sea-sick, even if you never get sea-sick.</b>",
+    "earlyBookingAdvised": true,
+    "location": {
+      "type": "Point",
+        "coordinates": [
+            173.68163442611694,
+            -42.40082378462296
+            ]
+    },
+    "image": "images/kaikoura.JPG",
+    "attribution": "Debby the Axe-Thrower",
+    "details": "https://whalewatch.co.nz/kia-ora/",
+    "ratingPositive": {
+      "text": "Incredible experience. Comfortable boat ride out that only took about 10 minutes. We saw 3 whales and lots of dolphins and seals. Great information from the staff and documentary about the wildlife. Highly recommend to all ages.",
+      "author": "Iverlene F"
+    },
+    "ratingNegative": {
+      "text": "A Money making excercise!!",
+      "author": "jonjo Record"
+    }
   }
 ]
 
