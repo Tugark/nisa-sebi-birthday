@@ -926,10 +926,10 @@
     "earlyBookingAdvised": true,
     "location": {
       "type": "Point",
-        "coordinates": [
-            173.68163442611694,
-            -42.40082378462296
-            ]
+      "coordinates": [
+        173.68163442611694,
+        -42.40082378462296
+      ]
     },
     "image": "images/kaikoura.JPG",
     "attribution": "Debby the Axe-Thrower",
@@ -942,6 +942,35 @@
       "text": "A Money making excercise!!",
       "author": "jonjo Record"
     }
+  },
+  {
+    "title": "Gisborne",
+    "description": "Gisborne is a city located on the east coast of New Zealand's North Island. It is known for its beautiful beaches, rich Maori culture, and as the first city in the world to see the sunrise each day.",
+    "earlyBookingAdvised": false,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        178.0175769825961,
+        -38.66231861407369
+      ]
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Timelines_Sculpture%2C_Gisborne%2C_New_Zealand.jpg",
+    "attribution": "<a href=\"https://commons.wikimedia.org/wiki/File:Timelines_Sculpture,_Gisborne,_New_Zealand.jpg\">David Thomsen</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons"
+  },
+  {
+    "title": "Lake Waikaremoana",
+    "description": "Lake Waikaremoana is a stunning lake located in the Te Urewera region of New Zealand's North Island. The lake is surrounded by lush native forest and offers a range of outdoor activities, including hiking, fishing, and kayaking. Access is via an unsealed road, but incrredibly scenic. One of the most remote areas in the North Island.",
+    "earlyBookingAdvised": false,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        177.097494845709,
+        -38.763577709817255
+      ]
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Lake_Waikaremoana_01.jpg",
+    "attribution": "<a href=\"https://commons.wikimedia.org/wiki/File:Lake_Waikaremoana_01.jpg\">Krzysztof Golik</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+    "details": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/east-coast/places/te-urewera/lake-waikaremoana-area/"
   }
 ]
 
