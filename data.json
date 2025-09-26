@@ -954,6 +954,7 @@
         -38.66231861407369
       ]
     },
+    "details": "https://www.newzealand.com/int/gisborne/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Timelines_Sculpture%2C_Gisborne%2C_New_Zealand.jpg",
     "attribution": "<a href=\"https://commons.wikimedia.org/wiki/File:Timelines_Sculpture,_Gisborne,_New_Zealand.jpg\">David Thomsen</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons"
   },
@@ -971,6 +972,165 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Lake_Waikaremoana_01.jpg",
     "attribution": "<a href=\"https://commons.wikimedia.org/wiki/File:Lake_Waikaremoana_01.jpg\">Krzysztof Golik</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
     "details": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/east-coast/places/te-urewera/lake-waikaremoana-area/"
+  },
+  {
+    "title": "Lake Daniell",
+    "description": "Lake Daniell is a beautiful alpine lake located in the West Coast region of New Zealand's South Island. The lake is surrounded by native forest and offers a range of outdoor activities, including hiking, fishing, and camping. The lake is accessible via a short walk from the car park, making it a popular destination for day trips and overnight camping.",
+    "earlyBookingAdvised": false,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        172.2899518899372,
+        -42.29953695179205
+      ]
+    },
+    "details": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/lewis-pass-scenic-reserve/things-to-do/tracks/lake-daniell-track/",
+    "image": "images/daniell.JPG",
+    "attribution": "Debby the Axe-Thrower"
+  },
+  {
+    "title": "Cape Foulwind",
+    "description": "Cape Foulwind is a scenic headland located on the West Coast of New Zealand's South Island. The cape is known for its rugged coastline, stunning views, and a colony of New Zealand fur seals. Visitors can take a short walk to the Cape Foulwind Lighthouse, which offers panoramic views of the Tasman Sea and the surrounding area. The cape is also home to several walking trails, including the popular Cape Foulwind Walkway, which takes visitors along the coastline and through native bush.",
+    "earlyBookingAdvised": false,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        171.4693588862613,
+        -41.74825342955577
+      ]
+    },
+    "details": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/westport/things-to-do/tracks/cape-foulwind-walkway/",
+    "image": "images/foulwind.JPG",
+    "attribution": "Debby the Axe-Thrower",
+    "ratingPositive": {
+      "text": "Cape Foulwind Lighthouse offers stunning coastal views, especially at sunset. It’s a peaceful spot for walk, with seals nearby and fascinating history. A must visit if you’re in Westport!",
+      "author": "jain paul"
+    },
+    "ratingNegative": {
+      "text": "Bit disappointing",
+      "author": "Glenys Fentonr"
+    }
+  },
+  {
+    "title": "Pancake Rocks",
+    "description": "The Pancake Rocks and Blowholes at Punakaiki on the West Coast of New Zealand's South Island are a natural wonder. The rocks are made of layers of limestone that have been eroded by the sea, creating a unique pancake-like appearance. The blowholes are formed when waves crash into the rocks, forcing water and air through narrow openings and creating impressive spouts of water. The area is a popular tourist destination, with walking trails and viewing platforms that offer stunning views of the rocks and blowholes.",
+    "earlyBookingAdvised": false,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        171.3296969241145,
+        -42.11533104836752
+      ]
+    },
+    "details": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/paparoa-national-park/things-to-do/tracks/pancake-rocks-and-blowholes-walk/",
+    "image": "images/pancake.JPG",
+    "attribution": "Debby the Axe-Thrower",
+    "ratingPositive": {
+      "text": "Incredible experience! The rock formations are truly unique, and the blowholes were amazing to watch, especially during high tide. The walking track is easy and offers stunning coastal views throughout. A must-visit spot if you’re in the area!",
+      "author": "Arjun Bhandari"
+    },
+    "ratingNegative": {
+      "text": "This is the sight that every tourist wants to see, so it is very crowded",
+      "author": "Ruedi Vogt"
+    }
+  },
+  {
+    "title": "Lake Brunner",
+    "description": "Lake Brunner is a picturesque lake located on the West Coast of New Zealand's South Island. The lake is surrounded by native forest and offers a range of outdoor activities, including fishing, boating, and hiking. The lake is known for its clear waters and abundant trout population, making it a popular destination for anglers. Visitors can also explore the nearby walking trails, which offer stunning views of the lake and surrounding mountains.",
+    "earlyBookingAdvised": false,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        171.43899454585522,
+        -42.614807523435395
+      ]
+    },
+    "details": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/lake-brunner-area/",
+    "image": "images/brunner.jpg",
+    "attribution": "Lukasz Merzenich, taken on Mt Te Kinga"
+  },
+  {
+    "title": "Okarito Lagoon & Beach",
+    "description": "Okarito Lagoon is a stunning coastal lagoon located on the West Coast of New Zealand's South Island. The lagoon is known for its rich biodiversity, including a variety of bird species such as the rare white heron (kotuku). Visitors can explore the lagoon by kayak or take a guided tour to learn about the area's unique ecology and Maori history. The surrounding area also offers several walking trails, including the walk to Three Mile Lagoon if tides permit, where you can see all the way to Mt Cook.",
+    "earlyBookingAdvised": false,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        170.15937148033888,
+        -43.22304385915699
+      ]
+    },
+    "image": "images/okarito.JPG",
+    "attribution": "Debby the Axe-Thrower (taken on the walk to Three Mile Lagoon)",
+    "details": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/okarito-area/"
+  },
+  {
+    "title": "Lake Matheson",
+    "description": "Lake Matheson is a picturesque lake located near Fox Glacier on the West Coast of New Zealand's South Island. The lake is known for its stunning reflections of the surrounding mountains, including Aoraki/Mount Cook and Mount Tasman. Visitors can take a short walk around the lake, which offers several viewing points for photography and birdwatching. The area is also home to a variety of native flora and fauna, making it a popular destination for nature lovers.",
+    "earlyBookingAdvised": false,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        169.96462706774278,
+        -43.43895673954571
+      ]
+    },
+    "image": "images/matheson.JPG",
+    "attribution": "Debby the Axe-Thrower",
+    "details": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/westland-tai-poutini-national-park/things-to-do/tracks/lake-matheson-walk/",
+    "ratingPositive": {
+      "text": "Very nice walk around the lake. It’ll cost you about 1,5 hours in total. And if you’re lucky you can make the perfect reflection picture. I was not \uD83D\uDE05 But still enjoyed this walk very much. The path is just wonderful.",
+      "author": "Femke Czech"
+    },
+    "ratingNegative": {
+      "text": "Completely over crowded with tourist buses. Just heaps of people yelling and all scrambling for the spots on the viewing platform. The view of the mountains is good though. Just go to the carpark get your photos then leave. Dont do the walk its not worth the lake at all.",
+      "author": "P Kelly"
+    }
+  },
+  {
+    "title": "Isthmus Peak",
+    "description": "Isthmus Peak is a prominent mountain located in the Southern Alps of New Zealand's South Island. It is a steep hike, but the views are amazing, and you're guaranteed to have less crowds than on the crowded Roy's Peak, and the views are even more specially since it's perched between two lakes.",
+    "earlyBookingAdvised": false,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        169.2001936477036,
+        -44.46202255486267
+      ]
+    },
+    "details": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/wanaka-area/things-to-do/isthmus-peak-track/",
+    "image": "images/isthmus.jpg",
+    "attribution": "Lukasz Merzenich"
+  },
+  {
+    "title": "Rob Roy Glacier Track",
+    "description": "The Rob Roy Glacier Track is a popular hiking trail located in the Mountains of New Zealand's South Island. The track offers stunning views of the Rob Roy Glacier, as well as the surrounding mountains and valleys. The hike is relatively short, taking around 3-4 hours round trip, but it is steep in places and requires a good level of fitness. Rough gravel road to the car park, but tourists drive there even with large campervans.",
+    "earlyBookingAdvised": false,
+    "location": {
+        "type": "Point",
+        "coordinates": [
+          168.72809790125058,
+          -44.476857531756444
+        ]
+    },
+    "details": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/mount-aspiring-national-park/things-to-do/tracks/rob-roy-track/",
+    "image": "images/robroy.JPG",
+    "attribution": "Debby the Axe-Thrower"
+  },
+  {
+    "title": "Diamond Lake Hiking Tracks",
+    "description": "Diamond Lake is a beautiful alpine lake located in the Otago region of New Zealand's South Island. The lake is surrounded by native forest and offers a range of hiking trails, including the popular Diamond Lake Loop Track. The loop track is a moderate hike that takes around 2-3 hours to complete and offers stunning views of the lake and surrounding mountains. The area is also home to a variety of native flora and fauna, making it a popular destination for nature lovers.",
+    "earlyBookingAdvised": false,
+    "details": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/diamond-lake-and-hospital-flat/",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        168.95951510380135,
+        -44.6505089686297
+      ]
+    },
+    "image": "images/diamond.JPG",
+    "attribution": "Debby the Axe-Thrower"
   }
 ]
 
