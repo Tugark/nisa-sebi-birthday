@@ -1264,7 +1264,7 @@
         -41.05602656079411
       ]
     },
-    "image": "images/kaitoke.JPG",
+    "image": "images/kaitoke.jpg",
     "attribution": "Debby the Axe-Thrower",
     "details": "https://www.newzealand.com/int/feature/kaitoke-regional-park/"
   },
@@ -1334,6 +1334,21 @@
     },
     "image": "images/skyline.jpg",
     "attribution": "Debby the Axe-Thrower"
+  },
+  {
+    "title": "Karangahake Gorge",
+    "description": "Karangahake Gorge is a scenic gorge located in the Waikato region of New Zealand's North Island. The gorge is known for its stunning natural scenery, including rugged cliffs, dense native forests, and the Ohinemuri River that runs through it. Visitors can explore the gorge via a range of walking and hiking trails, which offer stunning views of the surrounding landscape. The area is also home to several historic sites, including old gold mining relics and tunnels that can be explored. The Karangahake Gorge is a popular destination for tourists and locals alike, offering a unique and unforgettable outdoor experience.",
+    "earlyBookingAdvised": false,
+    "location": {
+        "type": "Point",
+        "coordinates": [
+          175.72132361822375,
+          -37.422267487088135
+        ]
+    },
+    "details": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/bay-of-plenty/places/kaimai-mamaku-conservation-park/karangahake-gorge/",
+    "image": "images/karangahake.jpg",
+    "attribution": "Lukasz Merzenich"
   }
 ]
 
