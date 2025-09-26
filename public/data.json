@@ -1107,11 +1107,11 @@
     "description": "The Rob Roy Glacier Track is a popular hiking trail located in the Mountains of New Zealand's South Island. The track offers stunning views of the Rob Roy Glacier, as well as the surrounding mountains and valleys. The hike is relatively short, taking around 3-4 hours round trip, but it is steep in places and requires a good level of fitness. Rough gravel road to the car park, but tourists drive there even with large campervans.",
     "earlyBookingAdvised": false,
     "location": {
-        "type": "Point",
-        "coordinates": [
-          168.72809790125058,
-          -44.476857531756444
-        ]
+      "type": "Point",
+      "coordinates": [
+        168.72809790125058,
+        -44.476857531756444
+      ]
     },
     "details": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/mount-aspiring-national-park/things-to-do/tracks/rob-roy-track/",
     "image": "images/robroy.JPG",
@@ -1131,6 +1131,224 @@
     },
     "image": "images/diamond.JPG",
     "attribution": "Debby the Axe-Thrower"
+  },
+  {
+    "title": "Muriwai Beach",
+    "description": "Muriwai Beach is a stunning black sand beach located on the western coast of Auckland, New Zealand. The beach is known for its rugged coastline, dramatic cliffs, and abundant wildlife, including a large colony of gannets. Visitors can take a walk along the beach, explore the nearby gannet colony, or enjoy surfing and fishing in the area. The beach is also home to several walking trails, including the popular Muriwai Gannet Colony Walk, which offers stunning views of the coastline and the gannets in their natural habitat.",
+    "earlyBookingAdvised": false,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        174.42692879061136,
+        -36.82975807634206
+      ]
+    },
+    "details": "https://www.newzealand.com/int/muriwai/",
+    "image": "images/muriwai.jpg",
+    "attribution": "Debby the Axe-Thrower",
+    "ratingPositive": {
+      "text": "Was visiting to ex0lore where I am going for the week of Christmas. Beautiful strand and camp grounds.",
+      "author": "Paula Coetzee"
+    },
+    "ratingNegative": {
+      "text": "Nah, not any bright view sparked me~ I don’t know why I went there the other day to be honest, I was thinking to go to a mountain have full of birds Island ...",
+      "author": "Sarah Shi"
+    }
+  },
+  {
+    "title": "Weta Workshop Unleashed Auckland",
+    "description": "Weta Workshop Unleashed is an interactive museum and workshop located in Auckland, New Zealand. The museum showcases the work of Weta Workshop, a world-renowned special effects and prop-making company. Visitors can explore a range of exhibits, including movie props, costumes, and special effects. The workshop also offers interactive experiences, such as creating your own movie prop or learning about the special effects used in popular films.",
+    "earlyBookingAdvised": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        174.76236417116868,
+        -36.849089851073984
+      ]
+    },
+    "details": "https://www.wetaworkshop.com/tours/auckland",
+    "image": "images/weta.jpg",
+    "attribution": "Debby the Axe-Thrower",
+    "ratingPositive": {
+      "text": "Went on a Saturday night and it was amazing! We booked our tickets online to secure our time slot. Our tour guide was Kais and he was very entertaining, knowledgeable, passionate and really great at making this an immersive experience. Thanks Kais for making our experience at Weta Workshop Auckland one to remember. Highly recommend!",
+      "author": "T.A Daniels"
+    },
+    "ratingNegative": {
+      "text": "Unfortunately very lame. The tour was suited for children. The tour guide continuously addressing a group of 20 adults as junior apprentices made it very awkward..i felt like saying “please read the room”. They have obviously put in a-lot of effort and the props were great but a 1.5 hour tour about movies we have never seen was very boring, we wanted to get out of there.",
+      "author": "Jane Roberts"
+    }
+  },
+  {
+    "title": "Mine Bay Maori Rock Carvings",
+    "description": "The Mine Bay Maori Rock Carvings are a series of impressive rock carvings located on the shores of Lake Taupo in New Zealand. The carvings were created in the late 1970s by master carver Matahi Whakataka-Brightwell and a team of artists. The carvings depict various Maori figures and symbols, including a large tiki figure, a canoe, and a family group. The carvings are accessible only by boat, and visitors can take a guided tour to see the carvings up close and learn about their significance in Maori culture.",
+    "earlyBookingAdvised": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        176.0076469640411,
+        -38.732979469591015
+      ]
+    },
+    "details": "https://www.newzealand.com/int/feature/mine-bay-rock-carving/",
+    "image": "images/minebay.jpg",
+    "attribution": "Lukasz Merzenich",
+    "ratingNegative": {
+      "text": "These carvings were made in 1976. I saw them from my jetski, not worth paying a boat operator to see them. Disappointing.",
+      "author": "Rob Schwab"
+    },
+    "ratingPositive": {
+      "text": "A really nice boat ride across the lake to view the carvings. You can help yourself to tea, coffee, or hot chocolate, and a delicious warm muffin was served as a snack. A gluten free muffin was also available as they were notified that there were some of our party who required this option. Plenty of time was given at the carving site for those who wanted to take a photo. It was a bit chilly on the day we went out so make sure to layer up warm enough.",
+      "author": "Moneaun Smedley"
+    }
+  },
+  {
+    "title": "Craters of the Moon",
+    "description": "Craters of the Moon is a geothermal area located near Taupo, New Zealand. The area is known for its unique landscape, which features steaming vents, bubbling mud pools, and colorful mineral deposits. Visitors can explore the area via a network of walking trails, which offer stunning views of the geothermal features. The area is also home to a variety of native flora and fauna, making it a popular destination for nature lovers.",
+    "earlyBookingAdvised": false,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        176.0713902786562,
+        -38.64427433580556
+      ]
+    },
+    "details": "https://www.cratersofthemoon.co.nz/",
+    "image": "images/craters.jpg",
+    "attribution": "Debby the Axe-Thrower",
+    "ratingNegative": {
+      "text": "Boring and not worth it imo. Not much to see, just a bit of smelly steam. 45 minute walk of not very much…!",
+      "author": "Tamsin Cox"
+    },
+    "ratingPositive": {
+      "text": "Very well maintained site with friendly staff and cute little souvenir store. The main loop takes about 45mins. You could do the look out loop which will take you another 15min - this part is quite steep though.",
+        "author": "Deeksha Nanaiah"
+    }
+  },
+  {
+    "title": "Rangiwahia Hut - Deadmans Track",
+    "description": "Rangiwahia Hut is a backcountry hut located in the Ruahine Forest Park on the North Island of New Zealand. The hut is accessible via the Deadmans Track, a challenging hiking trail that offers stunning views of the surrounding mountains and valleys. The hut is a popular destination for trampers and hikers, providing basic shelter and amenities for overnight stays. The area around the hut is known for its diverse flora and fauna, making it a popular destination for nature lovers. The full Deadmans Track is a long hike, but the climb from the car park to Rangiwahia Hut and on to Mangahuia makes for an amazing out-and-back day hike.",
+    "earlyBookingAdvised": false,
+    "location": {
+        "type": "Point",
+        "coordinates": [
+          176.01784896346518,
+          -39.89026366293173
+        ]
+    },
+    "details": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/manawatu-whanganui/places/ruahine-forest-park/things-to-do/tracks/rangiwahia-hut-deadmans-track/",
+    "image": "images/rangiwahia.jpg",
+    "attribution": "Lukasz Merzenich"
+  },
+  {
+    "title": "Lyttleton Harbour",
+    "description": "Lyttelton Harbour is a natural harbor located on the east coast of New Zealand's South Island, near the city of Christchurch. The harbor is known for its stunning scenery, with rugged cliffs, rolling hills, and picturesque bays. Visitors can explore the harbor via a range of activities, including boating, fishing, and kayaking. The harbor is also home to a variety of wildlife, including seals, penguins, and seabirds. The nearby town of Lyttelton offers a range of cafes, restaurants, and shops, making it a popular destination for tourists and locals alike.",
+    "earlyBookingAdvised": false,
+    "location": {
+        "type": "Point",
+        "coordinates": [
+          172.69317871396265,
+          -43.62651168316109
+        ]
+    },
+    "details": "https://www.newzealand.com/int/lyttelton/",
+    "image": "images/lyttleton.JPG",
+    "attribution": "Debby the Axe-Thrower"
+  },
+  {
+    "title": "Kaitoke Regional Park",
+    "description": "Kaitoke Regional Park is a beautiful park located in the Wellington region of New Zealand's North Island. The park is known for its stunning natural scenery, including native forests, rivers, and waterfalls. Visitors can explore the park via a range of walking and hiking trails, which offer stunning views of the surrounding landscape. The park is also known for being the host of Rivendell in the Lord of the Rings films, although only some bits and pieces remind you of this heritage.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        175.19365873621382,
+        -41.05602656079411
+      ]
+    },
+    "image": "images/kaitoke.jpg",
+    "attribution": "Debby the Axe-Thrower",
+    "details": "https://www.newzealand.com/int/feature/kaitoke-regional-park/"
+  },
+  {
+    "title": "The Yellow House Cafe",
+    "description": "Small cafe in Whanganui, where an undisclosed, axe-throwing enthusiast once had one of the very best cheese scones in all of New Zealand.",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        175.04966510152312,
+        -39.922010452688085
+      ]
+    },
+    "image": "images/scone.jpg",
+    "attribution": "Debby the Axe-Thrower",
+    "details": "https://www.yellowhousecafe.co.nz/",
+    "ratingPositive": {
+      "text": "Fantastic breakfast!  Food was exceptional and meals generous\uD83D\uDE00. Meals came out quickly.  Definitely recommend!!  Love the homemade relish and gourmet sausages\uD83D\uDC4C",
+      "author": "Flow Dance Fitness Motueka with Ngaire"
+    },
+    "ratingNegative": {
+      "text": "I was looking forward to a breakfast treat..bacon and eggs and coffee.\nThe first coffee tasted dour. Off Milk?\nThe scrambled eggs were dry and not mixed well. Far too much salt.Probably the worst I have ever had.\nThe toast had been on the hob for a long time..cold and stiff.\nThe bacon was OK but heaps of pure fat.\nSuggest they train this chef in the basics of cooking eggs.",
+      "author": "Oyster"
+    }
+  },
+  {
+    "title": "Forgotten World Highway",
+    "description": "The Forgotten World Highway (State Highway 43) is a scenic route in the North Island of New Zealand that stretches for 148 kilometers between the towns of Taumarunga and Stratford. The highway is known for its stunning natural scenery, including rugged mountains, deep gorges, and dense native forests. The route also passes through several small towns and historic sites, including the famous Mount Damper Falls and the unique Whangamomona Republic, a self-declared 'republic' that celebrates its independence with an annual festival. The Forgotten World Highway is a popular destination for tourists and locals alike, offering a unique and unforgettable driving experience.",
+    "earlyBookingAdvised": false,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        174.7602304789668,
+        -39.10161503080347
+      ]
+    },
+    "details": "https://www.newzealand.com/int/feature/forgotten-world-highway/",
+    "image": "images/forgotten.jpg",
+    "attribution": "Debby the Axe-Thrower"
+  },
+  {
+    "title": "Atene Skyline Track",
+    "description": "The Atene Skyline Track is a popular hiking trail located in the Whanganui region of New Zealand's North Island. The track offers stunning views of the surrounding landscape, including the Whanganui River and the nearby mountains. The hike is relatively short, taking around 2-3 hours to complete, but it is steep in places and requires a good level of fitness. The track is well-maintained and offers several viewing points along the way, making it a popular destination for both locals and tourists.",
+    "earlyBookingAdvised": false,
+    "details": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/manawatu-whanganui/places/whanganui-national-park/things-to-do/tracks/atene-skyline-track/",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        175.1387093459514,
+        -39.727199845368304
+      ]
+    },
+    "image": "images/atene.jpg",
+    "attribution": "Lukasz Merzenich"
+  },
+  {
+    "title": "Skyline Trail Mt Ruapehu",
+    "description": "One of the best short walks in Tongariro National Park, a steep climb up to the ridge offering stunning views of Mt Ruapehu, Mt Ngauruhoe, and Mt Tongariro. Can be combined with the famous \"Tea Time\" in the restaurant at the top; and the gondola can be used for going up and or down (or you take the Wild West Trail down, which is nice as well).",
+    "earlyBookingAdvised": false,
+    "details": "https://www.whakapapa.com/summer/short-walks",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        175.55311032456865,
+        -39.23194706532831
+      ]
+    },
+    "image": "images/skyline.jpg",
+    "attribution": "Debby the Axe-Thrower"
+  },
+  {
+    "title": "Karangahake Gorge",
+    "description": "Karangahake Gorge is a scenic gorge located in the Waikato region of New Zealand's North Island. The gorge is known for its stunning natural scenery, including rugged cliffs, dense native forests, and the Ohinemuri River that runs through it. Visitors can explore the gorge via a range of walking and hiking trails, which offer stunning views of the surrounding landscape. The area is also home to several historic sites, including old gold mining relics and tunnels that can be explored. The Karangahake Gorge is a popular destination for tourists and locals alike, offering a unique and unforgettable outdoor experience.",
+    "earlyBookingAdvised": false,
+    "location": {
+        "type": "Point",
+        "coordinates": [
+          175.72132361822375,
+          -37.422267487088135
+        ]
+    },
+    "details": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/bay-of-plenty/places/kaimai-mamaku-conservation-park/karangahake-gorge/",
+    "image": "images/karangahake.jpg",
+    "attribution": "Lukasz Merzenich"
   }
 ]
 
