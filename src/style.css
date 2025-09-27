@@ -53,3 +53,23 @@ html, body {
     rotate: -35deg;
     width: 400px;
 }
+
+.you-dwarf {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    rotate: -35deg;
+    width: 200px;
+}
+
+@media (orientation: landscape) {
+    .you-dwarf {
+        width: 40vh;
+    }
+}
+
+@media (orientation: portrait) {
+    .you-dwarf {
+        width: 60vw;
+    }
+}
