@@ -64,6 +64,11 @@ html, body {
     animation: pulse 1s infinite;
 }
 
+.driver {
+    max-width: 150px;
+    animation: pulse 1s infinite;
+}
+
 @media (orientation: landscape) {
     .you-dwarf {
         width: 40vh;
@@ -81,7 +86,7 @@ html, body {
         transform: scale(1);
     }
     50% {
-        transform: scale(1.05);
+        transform: scale(1.01);
     }
     100% {
         transform: scale(1);
