@@ -1,1 +1,0 @@
-import"./bootstrap-icons-DCdlLzqf.js";(()=>{let t=4;const e=document.getElementById("countdown"),o=setInterval(()=>{t-=.1,t=Math.max(t,0),e.textContent=t.toFixed(1),t<=0&&(clearInterval(o),window.location.href="https://www.galaxus.ch/de/s5/product/lego-the-lord-of-the-rings-barad-dur-10333-lego-icons-lego-seltene-sets-lego-44989405")},100)})();
