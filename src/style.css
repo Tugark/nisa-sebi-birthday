@@ -52,6 +52,7 @@ html, body {
     right: 0;
     rotate: -35deg;
     width: 400px;
+    animation: pulse 1s infinite;
 }
 
 .you-dwarf {
@@ -60,6 +61,7 @@ html, body {
     right: 0;
     rotate: -35deg;
     width: 200px;
+    animation: pulse 1s infinite;
 }
 
 @media (orientation: landscape) {
@@ -71,5 +73,17 @@ html, body {
 @media (orientation: portrait) {
     .you-dwarf {
         width: 60vw;
+    }
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.05);
+    }
+    100% {
+        transform: scale(1);
     }
 }
